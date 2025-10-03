@@ -3,8 +3,8 @@
 Space Hunters is a two‑app project created for NASA Space Apps Challenge 2025. The repository contains a production‑ready Flutter mobile app and a companion website. The mobile app is the primary deliverable and includes full AI summaries, AI chat, charts, and favorites. The website is a lightweight showcase with mostly static data and a public demo.
 
 ## Quick links
-- Mobile APK Download: https://drive.google.com/drive/folders/1JcKwLZikQUFakTZKuYTlZ0qq2wmFodLw?usp=sharing 
 - Mobile live demo: https://appetize.io/app/b_irjfqddzwqp4o4vzl2skhad4va
+- Mobile APK Download: https://drive.google.com/drive/folders/1JcKwLZikQUFakTZKuYTlZ0qq2wmFodLw?usp=sharing 
 - Mobile live demo (alt): https://appetize.io/app/b_vcshm5adskrcqpm35jqkb3zwsi
 - Website live demo: https://space-hunters.netlify.app/
 - Mobile source: Space_Hunters/Mobile_Application
