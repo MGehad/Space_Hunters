@@ -1,10 +1,11 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
+import '../keys.dart';
+
 class PMCService {
-  static const String GEMINI_API_KEY =
-      "AIzaSyC71_mfZSJNKe4vsW3vmi4OesdX1ovYWbE";
-  static const String ENTREZ_EMAIL = "ahmed01020865017@gmail.com";
+  static const String GEMINI_API_KEY = Keys.GEMINI_API_KEY;
+  static const String ENTREZ_EMAIL = Keys.ENTREZ_EMAIL;
 
   // Clean HTML tags and entities from text
   String _cleanHtmlText(String text) {
