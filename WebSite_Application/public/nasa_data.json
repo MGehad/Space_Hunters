@@ -1,0 +1,3038 @@
+[
+    {
+        "title": "Mice in Bion-M 1 space mission: training and selection",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4136787/",
+        "year": 2014,
+        "category": "Space biology - animal study"
+    },
+    {
+        "title": "Microgravity induces pelvic bone loss through osteoclastic activity, osteocytic osteolysis, and osteoblastic cell cycle inhibition by CDKN1a/p21",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630201/",
+        "year": 2013,
+        "category": "Bone biology - microgravity"
+    },
+    {
+        "title": "Dose- and Ion-Dependent Effects in the Oxidative Stress Response to Space-Like Radiation Exposure in the Skeletal System",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666799/",
+        "year": 2017,
+        "category": "Radiation biology - skeletal"
+    },
+    {
+        "title": "From the bench to exploration medicine: NASA life sciences translational research for human exploration and habitation missions.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460236/",
+        "year": 2017,
+        "category": "Translational research - space life sciences"
+    },
+    {
+        "title": "High-precision method for cyclic loading of small-animal vertebrae to assess bone quality.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6222041/",
+        "year": 2018,
+        "category": "Biomechanics - bone methods"
+    },
+    {
+        "title": "Effects of ex vivo ionizing radiation on collagen structure and whole-bone mechanical properties of mouse vertebrae.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6813909/",
+        "year": 2019,
+        "category": "Radiation effects - bone mechanics"
+    },
+    {
+        "title": "Absence of gamma-sarcoglycan alters the response of p70S6 kinase to mechanical perturbation in murine skeletal muscle",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4095884/",
+        "year": 2014,
+        "category": "Muscle biology - mechanotransduction"
+    },
+    {
+        "title": "AtRabD2b and AtRabD2c have overlapping functions in pollen development and pollen tube growth.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3040128/",
+        "year": 2011,
+        "category": "Plant biology - reproduction"
+    },
+    {
+        "title": "TNO1 is involved in salt tolerance and vacuolar trafficking in Arabidopsis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177255/",
+        "year": 2011,
+        "category": "Plant stress - salt tolerance"
+    },
+    {
+        "title": "Functional redundancy between trans-Golgi network SNARE family members in Arabidopsis thaliana.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11500582/",
+        "year": 2024,
+        "category": "Plant trafficking - TGN/SNARE"
+    },
+    {
+        "title": "Root growth movements: Waving and skewing.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5387210/",
+        "year": 2017,
+        "category": "Plant development - root movements"
+    },
+    {
+        "title": "Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587110/",
+        "year": 2017,
+        "category": "Methods - gene expression/RNA"
+    },
+    {
+        "title": "Spaceflight Modulates the Expression of Key Oxidative Stress and Cell Cycle Related Genes in Heart",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8396460/",
+        "year": 2021,
+        "category": "Cardiovascular genomics - spaceflight"
+    },
+    {
+        "title": "Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6985101/",
+        "year": 2020,
+        "category": "Liver metabolism - spaceflight omics"
+    },
+    {
+        "title": "GeneLab database analyses suggest long-term impact of space radiation on the cardiovascular system by the activation of FYN through reactive oxygen species.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6387434/",
+        "year": 2019,
+        "category": "Radiation biology - cardiovascular"
+    },
+    {
+        "title": "FAIRness and usability for open-access omics data systems.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371294/",
+        "year": 2018,
+        "category": "Data sharing - omics infrastructure"
+    },
+    {
+        "title": "NASA GeneLab platform utilized for biological response to space radiation in animal models",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7072278/",
+        "year": 2020,
+        "category": "Space radiation - animal models/omics"
+    },
+    {
+        "title": "Circulating miRNA spaceflight signature reveals targets for countermeasure development",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8441986/",
+        "year": 2020,
+        "category": "miRNA biomarkers - spaceflight countermeasures"
+    },
+    {
+        "title": "Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9400218/",
+        "year": 2022,
+        "category": "ISS microbiome - antimicrobial resistance"
+    },
+    {
+        "title": "Extraterrestrial Gynecology: Could Spaceflight Increase the Risk of Developing Cancer in Female Astronauts? An Updated Review",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9267413/",
+        "year": 2022,
+        "category": "Space medicine - oncology risk"
+    },
+    {
+        "title": "Muscle atrophy phenotype gene expression during spaceflight is linked to a metabolic crosstalk in both the liver and the muscle in mice.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576569/",
+        "year": 2022,
+        "category": "Muscle biology - transcriptomics (spaceflight)"
+    },
+    {
+        "title": "Chromosomal positioning and epigenetic architecture influence DNA methylation patterns triggered by galactic cosmic radiation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10789781/",
+        "year": 2024,
+        "category": "Epigenetics - space radiation"
+    },
+    {
+        "title": "A comprehensive SARS-CoV-2 and COVID-19 review, Part 2: Host extracellular to systemic effects of SARS-CoV-2 infection",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10772081/",
+        "year": 2023,
+        "category": "COVID-19 review - systems biology"
+    },
+    {
+        "title": "Aging and putative frailty biomarkers are altered by spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166946/",
+        "year": 2024,
+        "category": "Aging/frailty - spaceflight biomarkers"
+    },
+    {
+        "title": "Space radiation damage rescued by inhibition of key spaceflight associated miRNAs",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166944/",
+        "year": 2024,
+        "category": "Radiation countermeasures - miRNA"
+    },
+    {
+        "title": "Stem Cell Health and Tissue Regeneration in Microgravity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11988870/",
+        "year": 2025,
+        "category": "Stem cells - microgravity review"
+    },
+    {
+        "title": "Microgravity Reduces the Differentiation and Regenerative Potential of Embryonic Stem Cells",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4652210/",
+        "year": 2015,
+        "category": "Stem cells - microgravity differentiation"
+    },
+    {
+        "title": "Microgravity Stress: Bone and Connective Tissue",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11579474/",
+        "year": 2024,
+        "category": "Bone/connective tissue - microgravity"
+    },
+    {
+        "title": "S. aureus MscL is a pentamer in vivo but of variable stoichiometries in vitro: implications for detergent-solubilized membrane proteins",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2998437/",
+        "year": 2010,
+        "category": "Mechanosensitive channels (MscL) - oligomerization/biophysics"
+    },
+    {
+        "title": "Manipulating the permeation of charged compounds through the MscL nanovalve.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005423/",
+        "year": 2011,
+        "category": "Mechanosensitive channels (MscL) - nanovalve/transport"
+    },
+    {
+        "title": "The oligomeric state of the truncated mechanosensitive channel of large conductance shows no variance in vivo.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3190158/",
+        "year": 2011,
+        "category": "Mechanosensitive channels (MscL) - oligomeric state"
+    },
+    {
+        "title": "Three routes to modulate the pore size of the MscL channel/nanovalve",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289768/",
+        "year": 2012,
+        "category": "Mechanosensitive channels (MscL) - pore size modulation"
+    },
+    {
+        "title": "The dynamics of protein-protein interactions between domains of MscL at the cytoplasmic-lipid interface",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3508904/",
+        "year": 2012,
+        "category": "Mechanosensitive channels (MscL) - protein interactions"
+    },
+    {
+        "title": "The MscS and MscL families of mechanosensitive channels act as microbial emergency release valves",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430326/",
+        "year": 2012,
+        "category": "Mechanosensitive channels - review"
+    },
+    {
+        "title": "Chimeras reveal a single lipid-interface residue that controls MscL channel kinetics as well as mechanosensitivity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3593973/",
+        "year": 2013,
+        "category": "Mechanosensitive channels (MscL) - structure/function"
+    },
+    {
+        "title": "Reply to Bemm et al. and Arakawa: Identifying foreign genes in independent Hypsibius dujardini genome assemblies",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4896697/",
+        "year": 2016,
+        "category": "Tardigrade genomics - commentary/rebuttal"
+    },
+    {
+        "title": "Evidence for extensive horizontal gene transfer from the draft genome of a tardigrade",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018776/",
+        "year": 2015,
+        "category": "Tardigrade genomics - HGT (original + correction)"
+    },
+    {
+        "title": "Tardigrade secretory proteins protect biological structures from desiccation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11127935/",
+        "year": 2024,
+        "category": "Tardigrade IDPs/SAHS - desiccation protection"
+    },
+    {
+        "title": "Production of reactive oxygen species and involvement of bioprotectants during anhydrobiosis in the tardigrade Paramacrobiotus spatialis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8816950/",
+        "year": 2022,
+        "category": "Anhydrobiosis - ROS/bioprotectants (tardigrade)"
+    },
+    {
+        "title": "The biology of tardigrade disordered proteins in extreme stress tolerance.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11930778/",
+        "year": 2024,
+        "category": "Tardigrade IDPs - stress tolerance (review)"
+    },
+    {
+        "title": "Partial weight suspension: A novel murine model for investigating adaptation to reduced musculoskeletal loading.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3774184/",
+        "year": 2010,
+        "category": "Rodent analogs - partial gravity/musculoskeletal"
+    },
+    {
+        "title": "Partial reductions in mechanical loading yield proportional changes in bone density, bone architecture, and muscle mass",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4118556/",
+        "year": 2012,
+        "category": "Bone biology - graded unloading (PWB model)"
+    },
+    {
+        "title": "Spaceflight and hind limb unloading induce similar changes in electrical impedance characteristics of mouse gastrocnemius muscle",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4653813/",
+        "year": 2013,
+        "category": "Muscle physiology - EIM, unloading/spaceflight"
+    },
+    {
+        "title": "Spaceflight Activates Lipotoxic Pathways in Mouse Liver",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6915713/",
+        "year": 2019,
+        "category": "Liver metabolism - lipotoxicity (spaceflight multi-omics)"
+    },
+    {
+        "title": "Treatment with a soluble bone morphogenetic protein type 1A receptor (BMPR1A) fusion protein increases bone mass and bone formation in mice subjected to hindlimb unloading.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124165/",
+        "year": 2017,
+        "category": "Bone countermeasure - BMPR1A fusion (unloading)"
+    },
+    {
+        "title": "RNAseq and RNA molecular barcoding reveal differential gene expression in cortical bone following hindlimb unloading in female mice",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8509868/",
+        "year": 2021,
+        "category": "Transcriptomics - bone unloading (HLU)"
+    },
+    {
+        "title": "Proteomic and phosphoproteomic characterization of cardiovascular tissues after long term exposure to simulated space radiation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11063234/",
+        "year": 2024,
+        "category": "Cardiovascular proteomics - space radiation"
+    },
+    {
+        "title": "Adaptive Changes in the Vestibular System of Land Snail to a 30-Day Spaceflight and Readaptation on Return to Earth",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5672023/",
+        "year": 2017,
+        "category": "Vestibular neuroscience - spaceflight"
+    },
+    {
+        "title": "Morphology of the Utricular Otolith Organ in the Toadfish, Opsanus tau",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899691/",
+        "year": 2018,
+        "category": "Vestibular morphology - otolith organ"
+    },
+    {
+        "title": "Influence of Magnitude and Duration of Altered Gravity and Readaptation to 1g on the Structure and Function of the Utricle in Toadfish, Opsanus tau.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204554/",
+        "year": 2018,
+        "category": "Vestibular physiology - altered gravity"
+    },
+    {
+        "title": "Organization of the ER-Golgi interface for membrane traffic control.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4064004/",
+        "year": 2013,
+        "category": "Cell biology - ER/Golgi trafficking (review)"
+    },
+    {
+        "title": "IRE1: ER stress sensor and cell fate executor.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3818365/",
+        "year": 2013,
+        "category": "ER stress/UPR - IRE1 review"
+    },
+    {
+        "title": "Inter-regulation of the unfolded protein response and auxin signaling.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3981873/",
+        "year": 2013,
+        "category": "Plant UPR - auxin cross-talk"
+    },
+    {
+        "title": "Endoplasmic reticulum-shape and function in stress translation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4150462/",
+        "year": 2014,
+        "category": "Plant ER/UPR - stress adaptation (editorial/review collection)"
+    },
+    {
+        "title": "Galactose-depleted xycoglucan is dysfunctional and leads to dwarfism in Arabidopsis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378170/",
+        "year": 2015,
+        "category": "Plant cell wall - xyloglucan/galactosylation"
+    },
+    {
+        "title": "Unfolded protein response in plants: one master, many questions.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618186/",
+        "year": 2015,
+        "category": "Plant UPR - review"
+    },
+    {
+        "title": "Vesicles versus Tubes: Is Endoplasmic Reticulum-Golgi Transport in Plants Fundamentally Different from Other Eukaryotes?",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4453782/",
+        "year": 2015,
+        "category": "Plant ER-Golgi transport - perspectives"
+    },
+    {
+        "title": "Pectin methylesterification impacts the relationship between photosynthesis and plant growth.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902601/",
+        "year": 2016,
+        "category": "Plant physiology - cell wall/photosynthesis"
+    },
+    {
+        "title": "Reduced Chloroplast Coverage genes from Arabidopsis thaliana help to establish the size of the chloroplast compartment.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776492/",
+        "year": 2016,
+        "category": "Chloroplast biology - organelle size regulation"
+    },
+    {
+        "title": "HLB1 Is a Tetratricopeptide Repeat Domain-Containing Protein That Operates at the Intersection of the Exocytic and Endocytic Pathways at the TGN/EE in Arabidopsis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826010/",
+        "year": 2016,
+        "category": "Plant trafficking - TGN/EE exocytic/endocytic"
+    },
+    {
+        "title": "ERULUS is a plasma membrane-localized receptor-like kinase that specifies root hair growth by maintaining tip-focused cytoplasmic calcium oscillations.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048781/",
+        "year": 2018,
+        "category": "Root hair growth - Ca2+ signaling/CrRLK1L"
+    },
+    {
+        "title": "Brassinosteroids inhibit autotropic root straightening by modifying filamentous-actin organization and dynamics.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010715/",
+        "year": 2020,
+        "category": "Hormonal signaling - actin/gravitropism"
+    },
+    {
+        "title": "Cell type-specific imaging of calcium signaling in Arabidopsis thaliana seedling roots using GCaMP3.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7503278/",
+        "year": 2020,
+        "category": "Methods - calcium imaging/GCaMP3"
+    },
+    {
+        "title": "Spatial and temporal localization of SPIRRIG and WAVE/SCAR reveal roles for these proteins in actin-mediated root hair development.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8364238/",
+        "year": 2021,
+        "category": "Actin cytoskeleton - root hair development"
+    },
+    {
+        "title": "Extracellular nucleotides elicit cytosolic free calcium oscillations in Arabidopsis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329368/",
+        "year": 2011,
+        "category": "Plant signaling - extracellular nucleotides/Ca2+"
+    },
+    {
+        "title": "Salt stress-induced Ca2+ waves are associated with rapid, long-distance root-to-shoot signaling in plants.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035928/",
+        "year": 2014,
+        "category": "Systemic signaling - Ca2+ waves (salt stress)"
+    },
+    {
+        "title": "A ROS-assisted calcium wave dependent on AtRBOHD and TPC1 propagates the systemic response to salt stress in Arabidopsis roots",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936552/",
+        "year": 2016,
+        "category": "Systemic signaling - ROS/Ca2+ (TPC1, RBOHD)"
+    },
+    {
+        "title": "Real-time In Vivo Recording of Arabidopsis Calcium Signals During Insect Feeding Using a Fluorescent Biosensor",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5614317/",
+        "year": 2017,
+        "category": "Methods - in vivo Ca2+ imaging (biotic stress)"
+    },
+    {
+        "title": "Orchestrating rapid long-distance signaling in plants with Ca2+ , ROS, and electrical signals",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677518/",
+        "year": 2017,
+        "category": "Review - rapid systemic signaling (Ca2+/ROS/electrical)"
+    },
+    {
+        "title": "ROS, calcium and electric signals: Key mediators of rapid systemic signaling in plants",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610290/",
+        "year": 2020,
+        "category": "Rapid systemic signaling - ROS/Ca2+/electrical (review)"
+    },
+    {
+        "title": "Glutamate triggers long-distance, calcium-based plant defense signaling.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11850895/",
+        "year": 2025,
+        "category": "Plant defense signaling - systemic Ca2+"
+    },
+    {
+        "title": "Test of Arabidopsis Space Transcriptome: A discovery environment to explore multiple plant biology spaceflight experiments.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7076552/",
+        "year": 2020,
+        "category": "Space omics - Arabidopsis transcriptome/TOAST"
+    },
+    {
+        "title": "Tonoplast-localized Ca2+ pumps regulate Ca2+ signals during pattern-triggered immunity in Arabidopsis thaliana.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7414185/",
+        "year": 2020,
+        "category": "Plant immunity - Ca2+ signaling/ACAs"
+    },
+    {
+        "title": "The fast and the furious: Rapid long-range signaling in plants.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8133610/",
+        "year": 2021,
+        "category": "Review - systemic rapid signaling (Ca2+/ROS/electrical)"
+    },
+    {
+        "title": "Rad-Bio-App: A discovery environment for biologists to explore spaceflight-related radiation exposures",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8113475/",
+        "year": 2021,
+        "category": "Tool - data mining/space radiation (GeneLab)"
+    },
+    {
+        "title": "The vacuolar H+/Ca transporter CAX1 participates in submergence and anoxia stress responses.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9706465/",
+        "year": 2022,
+        "category": "Plant stress - anoxia/submergence Ca2+ transport"
+    },
+    {
+        "title": "Meta-analysis of the space flight and microgravity response of the Arabidopsis plant transcriptome",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10027818/",
+        "year": 2023,
+        "category": "Plant space omics - transcriptome meta-analysis"
+    },
+    {
+        "title": "Low-dose, ionizing radiation and age-related changes in skeletal microarchitecture",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337602/",
+        "year": 2012,
+        "category": "Radiation biology - skeletal microarchitecture"
+    },
+    {
+        "title": "Ionizing Radiation Stimulates Expression of Pro-Osteoclastogenic Genes in Marrow and Skeletal Tissue",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4490751/",
+        "year": 2015,
+        "category": "Radiation biology - osteoclastogenic signaling"
+    },
+    {
+        "title": "Preservation of Multiple Mammalian Tissues to Maximize Science Return from Ground Based and Spaceflight Experiments",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132293/",
+        "year": 2016,
+        "category": "Methods - tissue preservation for omics"
+    },
+    {
+        "title": "Hindlimb Unloading: Rodent Analog for Microgravity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11747068/",
+        "year": 2025,
+        "category": "Rodent analog - hindlimb unloading (HLU)"
+    },
+    {
+        "title": "Redox Signaling and Its Impact on Skeletal and Vascular Responses to Spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666834/",
+        "year": 2017,
+        "category": "Redox biology - skeletal/vascular (spaceflight)"
+    },
+    {
+        "title": "Influence of social isolation during prolonged simulated weightlessness by hindlimb unloading",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6753329/",
+        "year": 2019,
+        "category": "Behavioral/immune effects - HLU social isolation"
+    },
+    {
+        "title": "Validation of a new Rodent experimental System to investigate consequences of Long Duration Space Habitation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012842/",
+        "year": 2020,
+        "category": "Spaceflight hardware - rodent research system"
+    },
+    {
+        "title": "Skeletal tissue regulation by catalase over-expression in mitochondria",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405755/",
+        "year": 2015,
+        "category": "Muscle/bone biology - mitochondrial catalase/PGC-1α"
+    },
+    {
+        "title": "Overexpression of catalase in mitochondria mitigates changes in hippocampal cytokine expression following simulated microgravity and isolation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260663/",
+        "year": 2021,
+        "category": "Neuroscience - neuroinflammation (microgravity/isolation)"
+    },
+    {
+        "title": "An extensive allelic series of Drosophila kae1 mutants reveals diverse and tissue-specific requirements for t6A biogenesis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4647464/",
+        "year": 2015,
+        "category": "RNA modification - t6A biogenesis (Drosophila)"
+    },
+    {
+        "title": "Novel Organelles with Elements of Bacterial and Eukaryotic Secretion Systems Weaponize Parasites of Drosophila",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659752/",
+        "year": 2017,
+        "category": "Host–parasite interaction - extracellular vesicles (wasp–fly)"
+    },
+    {
+        "title": "A parasitoid wasp of Drosophila employs preemptive and reactive strategies to deplete its host's blood cells",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8191917/",
+        "year": 2021,
+        "category": "Insect immunity - parasitoid wasp strategies (Drosophila)"
+    },
+    {
+        "title": "A combined computational strategy of sequence and structural analysis predicts the existence of a functional eicosanoid pathway in Drosophila melanogaster.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6372189/",
+        "year": 2019,
+        "category": "Computational biology - Drosophila eicosanoid pathway"
+    },
+    {
+        "title": "Immune suppressive extracellular vesicle proteins of Leptopilina heterotoma are encoded in the wasp genome.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6945029/",
+        "year": 2019,
+        "category": "Host–parasite interactions - wasp EV proteomics"
+    },
+    {
+        "title": "Spaceflight and simulated microgravity conditions increase virulence of Serratia marcescens in the Drosophila melanogaster infection model.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7000411/",
+        "year": 2020,
+        "category": "Space microbiology - pathogen virulence (Drosophila)"
+    },
+    {
+        "title": "In Silico Analysis of a Drosophila Parasitoid Venom Peptide Reveals Prevalence of the Cation–Polar–Cation Clip Motif in Knottin Proteins",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9865768/",
+        "year": 2023,
+        "category": "Structural bioinformatics - venom peptides/knottins"
+    },
+    {
+        "title": "Drosophila parasitoids go to space: Unexpected effects of spaceflight on hosts and their parasitoids.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10797188/",
+        "year": 2023,
+        "category": "Space biology - insect host–parasitoid dynamics"
+    },
+    {
+        "title": "Simultaneous exposure of cultured human lymphoblastic cells to simulated microgravity and radiation increases chromosome aberrations",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555395/",
+        "year": 2020,
+        "category": "Space radiobiology - microgravity × radiation synergy"
+    },
+    {
+        "title": "Genes required for survival in microgravity revealed by genome-wide yeast deletion collections cultured during spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309212/",
+        "year": 2015,
+        "category": "Yeast genetics - microgravity survival (spaceflight)"
+    },
+    {
+        "title": "Physical Forces Modulate Oxidative Status and Stress Defense Meditated Metabolic Adaptation of Yeast Colonies: Spaceflight and Microgravity Simulations",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560652/",
+        "year": 2017,
+        "category": "Yeast physiology - microgravity vs simulations"
+    },
+    {
+        "title": "Effects of space flight on mouse liver versus kidney: Gene pathway analyses.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6321533/",
+        "year": 2018,
+        "category": "Transcriptomics - liver vs kidney (spaceflight)"
+    },
+    {
+        "title": "Endocrine Effects of Space Flight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11833055/",
+        "year": 2025,
+        "category": "Endocrine physiology - spaceflight (review)"
+    },
+    {
+        "title": "Role of shear stress on renal proximal tubular cells for nephrotoxicity assays",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9146534/",
+        "year": 2022,
+        "category": "Organ-on-chip - renal shear/nephrotoxicity"
+    },
+    {
+        "title": "Evaluation of in vitro macrophage differentiation during space flight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3570223/",
+        "year": 2012,
+        "category": "Immunology - macrophage differentiation (spaceflight)"
+    },
+    {
+        "title": "Identification of critical host mitochondrion-associated genes during Ehrlichia chaffeensis infections",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3457586/",
+        "year": 2012,
+        "category": "Host–pathogen interactions - mitochondrial genes (Ehrlichia)"
+    },
+    {
+        "title": "Ehrlichia chaffeensis replication sites in adult Drosophila melanogaster.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3558598/",
+        "year": 2013,
+        "category": "Infection biology - Ehrlichia in Drosophila model"
+    },
+    {
+        "title": "Development and characterization of two porcine monocyte-derived macrophage cell lines.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11046949/",
+        "year": 2024,
+        "category": "Macrophage models - porcine cell lines/antiviral screening"
+    },
+    {
+        "title": "Understanding macrophage differentiation during space flight: The importance of ground-based experiments before space flight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3890248/",
+        "year": 2013,
+        "category": "Immunology methods - macrophage culture hardware effects"
+    },
+    {
+        "title": "Validation of methods to assess the immunoglobulin gene repertoire in tissues obtained from mice on the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5736159/",
+        "year": 2017,
+        "category": "B-cell repertoire - sequencing/method validation (ISS)"
+    },
+    {
+        "title": "Characterization of the naive murine antibody repertoire using unamplified high-throughput sequencing",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5761896/",
+        "year": 2018,
+        "category": "B-cell repertoire - unamplified RNA-Seq (mouse)"
+    },
+    {
+        "title": "Effects of spaceflight on the immunoglobulin repertoire of unimmunized C57BL/6 mice",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826609/",
+        "year": 2017,
+        "category": "Space immunology - B-cell repertoire (mouse, ISS)"
+    },
+    {
+        "title": "A comparison of unamplified and massively multiplexed PCR amplification for murine antibody repertoire sequencing.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366624/",
+        "year": 2018,
+        "category": "Methods - repertoire sequencing (PCR vs unamplified)"
+    },
+    {
+        "title": "An Analysis of the Effects of Spaceflight and Vaccination on Antibody Repertoire Diversity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10996920/",
+        "year": 2021,
+        "category": "Space immunology - antibody repertoire/vaccination"
+    },
+    {
+        "title": "Effects of spaceflight aboard the International Space Station on mouse estrous cycle and ovarian gene expression",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7954810/",
+        "year": 2021,
+        "category": "Reproductive biology - ovarian transcription (spaceflight)"
+    },
+    {
+        "title": "Effect of spaceflight on Pseudomonas aeruginosa final cell density is modulated by nutrient and oxygen availability.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228280/",
+        "year": 2013,
+        "category": "Space microbiology - bacterial growth/viability"
+    },
+    {
+        "title": "Spaceflight promotes biofilm formation by Pseudomonas aeruginosa.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3639165/",
+        "year": 2013,
+        "category": "Space microbiology - biofilms (Pseudomonas)"
+    },
+    {
+        "title": "NASA GeneLab RNA-Seq Consensus Pipeline: Standardized Processing of Short-Read RNA-Seq Data",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8044432/",
+        "year": 2021,
+        "category": "Methods - RNA-Seq pipeline (GeneLab)"
+    },
+    {
+        "title": "NASA GeneLab: Interfaces for the exploration of space omics data",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778922/",
+        "year": 2020,
+        "category": "Data platform - GeneLab interfaces/space omics"
+    },
+    {
+        "title": "Comprehensive multi-omics analysis reveals mitochondrial stress as a central biological hub for spaceflight impact",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7870178/",
+        "year": 2020,
+        "category": "Space omics - mitochondrial stress hub"
+    },
+    {
+        "title": "A New Era for Space Life Science: International Standards for Space Omics Processing",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733874/",
+        "year": 2020,
+        "category": "Standards - space omics processing"
+    },
+    {
+        "title": "Spatially resolved multiomics on the neuronal effects induced by spaceflight in mice",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166911/",
+        "year": 2024,
+        "category": "Neuroscience - spatial multi-omics (spaceflight)"
+    },
+    {
+        "title": "Biological horizons: pioneering open science in the cosmos",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11167097/",
+        "year": 2024,
+        "category": "Open science - space biology data/OSDR"
+    },
+    {
+        "title": "Inspiration4 data access through the NASA Open Science Data Repository",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11094041/",
+        "year": 2024,
+        "category": "Data access - open science (Inspiration4/OSDR)"
+    },
+    {
+        "title": "NASA GeneLab derived microarray studies of Mus musculus and Homo sapiens organisms in altered gravitational conditions.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11053165/",
+        "year": 2024,
+        "category": "Space omics - GeneLab microarray datasets"
+    },
+    {
+        "title": "Celebrating 30 years of access to NASA space life sciences data",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11403809/",
+        "year": 2024,
+        "category": "Data repository - NASA space life sciences"
+    },
+    {
+        "title": "Fungal diversity differences in the indoor dust microbiome from built environments on Earth and in space.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11126634/",
+        "year": 2024,
+        "category": "ISS microbiome - fungal diversity (dust)"
+    },
+    {
+        "title": "Predicting how varying moisture conditions impact the microbiome of dust collected from the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11386075/",
+        "year": 2024,
+        "category": "ISS microbiome - moisture modeling"
+    },
+    {
+        "title": "Dichotomous effects on lymphatic transport with loss of caveolae in mice.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513672/",
+        "year": 2021,
+        "category": "Lymphatic physiology - caveolae/transport"
+    },
+    {
+        "title": "Crewmember microbiome may influence microbial composition of ISS habitable surfaces",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190111/",
+        "year": 2020,
+        "category": "ISS microbiome - crew–surface metagenomics"
+    },
+    {
+        "title": "Sierra Nevada sweep: Metagenomic measurements of bioaerosols vertically distributed across the troposphere.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7382458/",
+        "year": 2020,
+        "category": "Aero-microbiology - bioaerosols/metagenomics"
+    },
+    {
+        "title": "Draft Genome Sequences of Fungi Isolated from the International Space Station during the Microbial Tracking-2 Experiment",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8444978/",
+        "year": 2021,
+        "category": "ISS microbiome - fungal draft genomes (MT-2)"
+    },
+    {
+        "title": "Microbial tracking-2, a metagenomics analysis of bacteria and fungi onboard the International Space Station (ISS)",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9241228/",
+        "year": 2022,
+        "category": "ISS microbiome - MT-2 metagenomics/AMR"
+    },
+    {
+        "title": "Draft genome sequences of biosafety level 2 opportunistic pathogens isolated from the environmental surfaces of the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5201052/",
+        "year": 2016,
+        "category": "ISS microbiome - BSL-2 pathogen draft genomes"
+    },
+    {
+        "title": "Whole metagenome profiles of particulates collected from the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5580210/",
+        "year": 2017,
+        "category": "ISS microbiome - particulate metagenomes"
+    },
+    {
+        "title": "Microbial Characteristics of ISS Environmental Surfaces",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8421509/",
+        "year": 2021,
+        "category": "ISS microbiome - potable water/surface microbiota"
+    },
+    {
+        "title": "Draft Genome Sequences from a Novel Clade of Bacillus cereus Sensu Lato Strains, Isolated from the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5552977/",
+        "year": 2017,
+        "category": "ISS microbiome - Bacillus cereus group genomes"
+    },
+    {
+        "title": "Draft Genome Sequences of Acinetobacter and Bacillus Strains Isolated from Spacecraft-Associated Surfaces",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805884/",
+        "year": 2018,
+        "category": "Spacecraft surfaces - Acinetobacter/Bacillus genomes"
+    },
+    {
+        "title": "KatharoSeq enables high-throughput microbiome analysis from low-biomass samples",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5864415/",
+        "year": 2018,
+        "category": "Methods - low-biomass microbiome (built environments/clinics)"
+    },
+    {
+        "title": "Draft genome sequence of a clinical isolate of Fusarium fujikuroi isolated from a male patient with acute myeloid leukemia.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013642/",
+        "year": 2018,
+        "category": "Clinical mycology - Fusarium genome (human isolate)"
+    },
+    {
+        "title": "Draft Genome Sequence of Solibacillus kalamii, Isolated from an Air Filter Aboard the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5578834/",
+        "year": 2017,
+        "category": "ISS microbiome - Solibacillus genome (air filter)"
+    },
+    {
+        "title": "Draft genome sequences of two Fusarium oxysporum isolates cultured from infected Zinnia hybrida plants grown on the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5958250/",
+        "year": 2018,
+        "category": "ISS plant pathology - Fusarium genomes (Veggie/VEG-01)"
+    },
+    {
+        "title": "Metabolomic analysis of Aspergillus niger isolated from the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326050/",
+        "year": 2020,
+        "category": "ISS microbiology - fungal metabolomics/secondary metabolites"
+    },
+    {
+        "title": "Multi-drug resistant Enterobacter bugandensis species isolated from the International Space Station and comparative genomic analyses with human pathogenic strains",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251167/",
+        "year": 2018,
+        "category": "ISS microbiome - MDR Enterobacter comparative genomics"
+    },
+    {
+        "title": "Methylobacterium ajmalii sp. nov., isolated from the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005752/",
+        "year": 2021,
+        "category": "ISS microbiome - novel species (plant-associated)"
+    },
+    {
+        "title": "Bacterial bioburden and community structure of potable water in the International Space Station determined by a novel monitoring approach",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9522912/",
+        "year": 2022,
+        "category": "ISS water system - bioburden monitoring/nanopore"
+    },
+    {
+        "title": "A microbial survey of the International Space Station (ISS)",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5827671/",
+        "year": 2017,
+        "category": "ISS microbiome - built environment survey"
+    },
+    {
+        "title": "Longitudinal multi-omics analysis of host microbiome and immune dynamics reveals spaceflight-associated shifts during a commercial orbital mission",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11222149/",
+        "year": 2024,
+        "category": "Human spaceflight - microbiome/immune multi-omics"
+    },
+    {
+        "title": "Methylobacterium ajmalii sp. nov., Isolated From the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005752/",
+        "year": 2021,
+        "category": "ISS microbiome - novel methylotroph (plant-associated)"
+    },
+    {
+        "title": "Bacterial bioburden and community structure of potable water in the International Space Station determined by a novel monitoring approach",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9522912/",
+        "year": 2022,
+        "category": "ISS water system - bioburden/community (nanopore)"
+    },
+    {
+        "title": "A microbial survey of the International Space Station (ISS)",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5827671/",
+        "year": 2017,
+        "category": "ISS built environment - environmental microbiome"
+    },
+    {
+        "title": "A microbial monitoring system demonstrated on the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8229003/",
+        "year": 2021,
+        "category": "Methods - in situ microbial monitoring (ISS)"
+    },
+    {
+        "title": "Skin microbial changes during space flights: A systematic review",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9604750/",
+        "year": 2022,
+        "category": "Human spaceflight - skin microbiome (systematic review)"
+    },
+    {
+        "title": "Metabolic modeling of the International Space Station microbiome reveals key microbial interactions",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9258157/",
+        "year": 2022,
+        "category": "ISS microbiome - metabolic interactions/modeling"
+    },
+    {
+        "title": "Validation of the International Space Station Smart Sample Concentrator for microbial monitoring of potable water",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566613/",
+        "year": 2020,
+        "category": "ISS water monitoring - in situ concentrator validation"
+    },
+    {
+        "title": "Genomic and phenotypic characterization of Burkholderia isolates from the potable water system of the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029842/",
+        "year": 2020,
+        "category": "ISS water system - Burkholderia genomics/phenotypes"
+    },
+    {
+        "title": "Draft Genome Sequences of Enterobacteriales Strains Isolated from the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484075/",
+        "year": 2020,
+        "category": "ISS microbiome - Enterobacteriales draft genomes"
+    },
+    {
+        "title": "Genome Sequences of Bacteria Isolated from the U.S. and Russian Water Systems Onboard the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10353376/",
+        "year": 2023,
+        "category": "ISS water systems - bacterial genome sequences"
+    },
+    {
+        "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/",
+        "year": 2020,
+        "category": "ISS microbiome - Klebsiella draft genomes"
+    },
+    {
+        "title": "Complete Genome Sequence of Klebsiella quasipneumoniae subsp. similipneumoniae strain IF3SW-P1, isolated from the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9302127/",
+        "year": 2022,
+        "category": "ISS microbiome - Klebsiella complete genome"
+    },
+    {
+        "title": "Microbiomes of the dust particles collected from the International Space Station and Earth-based cleanrooms",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624184/",
+        "year": 2015,
+        "category": "ISS environmental microbiome - dust/cleanroom comparison"
+    },
+    {
+        "title": "The impact of space flight on survival and interaction of Cupriavidus metallidurans CH34 with basalt",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408026/",
+        "year": 2017,
+        "category": "Space microbiology - microbe–mineral interactions/biomining"
+    },
+    {
+        "title": "Decreased metabolism and increased tolerance to extreme stresses in Staphylococcus warneri after short-term spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6925155/",
+        "year": 2019,
+        "category": "Space microbiology - Staphylococcus spaceflight adaptation"
+    },
+    {
+        "title": "Reference-guided metagenomics reveals genome-level evidence of potential microbial transmission from the International Space Station environment to an astronaut's microbiome",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7892915/",
+        "year": 2021,
+        "category": "ISS microbiome - environment↔astronaut transmission (genome-level)"
+    },
+    {
+        "title": "Pan-genome analysis of Bacillus for microbiome profiling",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5591210/",
+        "year": 2017,
+        "category": "Methods - pan-genome core genes for Bacillus identification"
+    },
+    {
+        "title": "Draft Genome Sequences of Ralstonia pickettii Strains Isolated from the International Space Station Potable Water Systems",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4155597/",
+        "year": 2014,
+        "category": "ISS water system - Ralstonia genomes"
+    },
+    {
+        "title": "Riboflavin- and chlorophyllin-based antimicrobial photoinactivation for controlling pathogens in drinking water of closed habitats",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9575555/",
+        "year": 2022,
+        "category": "Water treatment - antimicrobial photoinactivation (closed habitats)"
+    },
+    {
+        "title": "Microbial Source Tracking: Current Methodology and Future Directions",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC134426/",
+        "year": 2002,
+        "category": "Methods - microbial source tracking (review)"
+    },
+    {
+        "title": "Editorial: Microbial Source Tracking",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8660560/",
+        "year": 2021,
+        "category": "Editorial - microbial source tracking"
+    },
+    {
+        "title": "The International Space Station Environment Triggers Specific and Differential Responses in Drosophila melanogaster",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9280654/",
+        "year": 2022,
+        "category": "Space biology - organismal response (Drosophila)"
+    },
+    {
+        "title": "Skin microbiome considerations for long haul space flights",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9493037/",
+        "year": 2022,
+        "category": "Human spaceflight - skin microbiome considerations"
+    },
+    {
+        "title": "The human microbiome in space: parallels between Earth-based and spaceflight microbiomes",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11391694/",
+        "year": 2024,
+        "category": "Review - human/space microbiome parallels"
+    },
+    {
+        "title": "Validation of the International Space Station Smart Sample Concentrator for microbial monitoring of potable water",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566613/",
+        "year": 2020,
+        "category": "ISS water monitoring - in situ concentrator validation"
+    },
+    {
+        "title": "Microgravity Induces Pelvic Bone Loss through Osteoclastic Activity, Osteocytic Osteolysis, and Osteoblastic Cell Cycle Inhibition by CDKN1a/p21",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630201/",
+        "year": 2013,
+        "category": "Bone loss mechanisms - osteoclasts/osteocytes/cell-cycle (mouse spaceflight)"
+    },
+    {
+        "title": "Mice in Bion-M 1 Space Mission: Training and Selection",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4136787/",
+        "year": 2014,
+        "category": "Spaceflight operations - murine training/selection (Bion-M1)"
+    },
+    {
+        "title": "Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587110/",
+        "year": 2017,
+        "category": "On-orbit methods - RNA isolation/RT-qPCR (WetLab-2)"
+    },
+    {
+        "title": "NASA GeneLab: Interfaces for the exploration of space omics data",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778922/",
+        "year": 2020,
+        "category": "Data platform - GeneLab interfaces/space omics"
+    },
+    {
+        "title": "Comprehensive multi-omics analysis reveals mitochondrial stress as a central biological hub for spaceflight impact",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7870178/",
+        "year": 2020,
+        "category": "Space omics - mitochondrial stress hub"
+    },
+    {
+        "title": "A New Era for Space Life Science: International Standards for Space Omics Processing",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733874/",
+        "year": 2020,
+        "category": "Standards - space omics processing"
+    },
+    {
+        "title": "Effect of spaceflight on Pseudomonas aeruginosa final cell density is modulated by nutrient and oxygen availability.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228280/",
+        "year": 2013,
+        "category": "Space microbiology - bacterial growth/viability"
+    },
+    {
+        "title": "Microgravity and Cellular Biology: Insights into Cellular Responses and Implications for Human Health",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11988870/",
+        "year": 2025,
+        "category": "Microgravity biology - cellular responses (review)"
+    },
+    {
+        "title": "Spaceflight Modulates the Expression of Key Oxidative Stress and Cell Cycle Related Genes in Heart",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8396460/",
+        "year": 2021,
+        "category": "Cardiac biology - oxidative stress/cell cycle (spaceflight)"
+    },
+    {
+        "title": "Oxidative Stress on the Ground and in the Microgravity Environment: Mechanisms and System Effects",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11852023/",
+        "year": 2025,
+        "category": "Oxidative stress - mechanisms in microgravity (review)"
+    },
+    {
+        "title": "Effect of microgravity on proliferation and differentiation of embryonic stem cells",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6528932/",
+        "year": 2018,
+        "category": "Stem cells - proliferation/differentiation under microgravity"
+    },
+    {
+        "title": "The effects of microgravity on differentiation and cell growth in stem cells and cancer stem cells",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381804/",
+        "year": 2020,
+        "category": "Stem cells - differentiation/growth (review)"
+    },
+    {
+        "title": "Selective Proliferation of Highly Functional Adipose-Derived Stem Cells Using Microgravity Culture with Microspheres",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7998608/",
+        "year": 2021,
+        "category": "Stem cells - adipose-derived, microgravity culture"
+    },
+    {
+        "title": "Microgravity Induces Pelvic Bone Loss through Osteoclastic Activity, Osteocytic Osteolysis, and Osteoblastic Cell Cycle Inhibition by CDKN1a/p21",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630201/",
+        "year": 2013,
+        "category": "Bone biology - pelvic bone loss mechanisms (microgravity)"
+    },
+    {
+        "title": "Reference-guided metagenomics reveals genome-level evidence of potential microbial transmission from the International Space Station environment to an astronaut's microbiome",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7892915/",
+        "year": 2021,
+        "category": "ISS microbiome - environment↔astronaut transmission"
+    },
+    {
+        "title": "Metabolic modeling of the International Space Station microbiome reveals key microbial interactions",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9258157/",
+        "year": 2022,
+        "category": "ISS microbiome - metabolic interactions/modeling"
+    },
+    {
+        "title": "NASA GeneLab derived microarray studies of Mus musculus and Homo sapiens organisms in altered gravitational conditions",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11053165/",
+        "year": 2024,
+        "category": "Space omics - GeneLab microarray datasets"
+    },
+    {
+        "title": "Celebrating 30 years of access to NASA space life sciences data",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11403809/",
+        "year": 2024,
+        "category": "Data repository - NASA space life sciences"
+    },
+    {
+        "title": "Dichotomous effects on lymphatic transport with loss of caveolae in mice.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513672/",
+        "year": 2021,
+        "category": "Lymphatic physiology - caveolae/transport"
+    },
+    {
+        "title": "Fungal diversity differences in the indoor dust microbiome from built environments on Earth and in space.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11126634/",
+        "year": 2024,
+        "category": "ISS microbiome - fungal diversity (dust)"
+    },
+    {
+        "title": "Predicting how varying moisture conditions impact the microbiome of dust collected from the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11386075/",
+        "year": 2024,
+        "category": "ISS microbiome - moisture modeling"
+    },
+    {
+        "title": "Aging and estrogen status: A possible endothelium-dependent vascular coupling mechanism in bone remodeling.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3502426/",
+        "year": 2012,
+        "category": "Bone–vascular coupling - estrogen/endothelium"
+    },
+    {
+        "title": "Chronic skeletal unloading of the rat femur: mechanisms and functional consequences of vascular remodeling.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3856860/",
+        "year": 2013,
+        "category": "Bone vasculature - unloading vascular remodeling"
+    },
+    {
+        "title": "Differential effects of aging and exercise on intra-abdominal adipose arteriolar function and blood flow regulation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3615599/",
+        "year": 2013,
+        "category": "Vascular aging - adipose arterioles/exercise"
+    },
+    {
+        "title": "Effects of spaceflight and ground recovery on mesenteric artery and vein constrictor properties in mice.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4050424/",
+        "year": 2013,
+        "category": "Spaceflight vascular - mesenteric artery/vein constriction"
+    },
+    {
+        "title": "Spaceflight-induced alterations in cerebral artery vasoconstrictor, mechanical, and structural properties: Implications for elevated cerebral perfusion and intracranial pressure",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3659353/",
+        "year": 2013,
+        "category": "Cerebrovascular physiology - spaceflight ICP risk"
+    },
+    {
+        "title": "Exercise training augments regional bone and marrow blood flow during exercise.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169763/",
+        "year": 2014,
+        "category": "Exercise physiology - bone/marrow perfusion"
+    },
+    {
+        "title": "Effects of Skeletal Unloading on the Vasomotor Properties of the Rat Femur Principal Nutrient Artery",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4398884/",
+        "year": 2015,
+        "category": "Bone vasculature - unloading/endothelium (rat PNA)"
+    },
+    {
+        "title": "Type 2 diabetes alters bone and marrow blood flow and vascular control mechanisms in the ZDF rat.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4379453/",
+        "year": 2014,
+        "category": "Bone–marrow perfusion - diabetes vascular control"
+    },
+    {
+        "title": "Spaceflight on the Bion-M1 biosatellite alters cerebral artery vasomotor and mechanical properties in mice",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4385880/",
+        "year": 2015,
+        "category": "Cerebrovascular physiology - spaceflight (Bion-M1)"
+    },
+    {
+        "title": "Apollo Lunar Astronauts Show Higher Cardiovascular Disease Mortality: Possible Deep Space Radiation Effects on the Vascular Endothelium",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4964660/",
+        "year": 2016,
+        "category": "Radiation epidemiology - deep space/CVD risk"
+    },
+    {
+        "title": "Effects of age and exercise training on coronary microvascular smooth muscle phenotype and function",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5866446/",
+        "year": 2018,
+        "category": "Coronary microcirculation - aging/exercise"
+    },
+    {
+        "title": "Impact of Spaceflight and Artificial Gravity on the Mouse Retina: Biochemical and Proteomic Analysis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165321/",
+        "year": 2018,
+        "category": "Retina omics - spaceflight/artificial gravity"
+    },
+    {
+        "title": "Simulated microgravity induces regionally distinct neurovascular and structural remodeling of skeletal muscle and cutaneous arteries in the rat",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7339929/",
+        "year": 2020,
+        "category": "Vascular remodeling - simulated microgravity"
+    },
+    {
+        "title": "Spaceflight decelerates the epigenetic clock orchestrated with a global alteration in DNA methylome and transcriptome in the mouse retina",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8220224/",
+        "year": 2021,
+        "category": "Epigenetics - retina methylome/transcriptome (spaceflight)"
+    },
+    {
+        "title": "Development of otolith receptors in Japanese quail.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2910419/",
+        "year": 2010,
+        "category": "Vestibular development - otolith organs (avian)"
+    },
+    {
+        "title": "Spatial and temporal characteristics of vestibular convergence",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166430/",
+        "year": 2011,
+        "category": "Vestibular neurophysiology - multisensory convergence"
+    },
+    {
+        "title": "Bone remodeling is regulated by inner ear vestibular signals",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6615562/",
+        "year": 2019,
+        "category": "Bone–ear interface - vestibular/bone signaling"
+    },
+    {
+        "title": "Simulated Microgravity Enhances Oligodendrocyte Mitochondrial Function and Lipid Metabolism",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324008/",
+        "year": 2016,
+        "category": "Neuroglia - oligodendrocyte metabolism (sim-μG)"
+    },
+    {
+        "title": "Human Neural Stem Cells Flown into Space Proliferate and Generate Young Neurons",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8412175/",
+        "year": 2021,
+        "category": "Neural stem cells - proliferation/neurogenesis (spaceflight)"
+    },
+    {
+        "title": "Delayed Maturation of Oligodendrocyte Progenitors by Microgravity: Implications for Multiple Sclerosis and Space Flight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10607959/",
+        "year": 2023,
+        "category": "Neuroglia - OPC maturation delay (microgravity)"
+    },
+    {
+        "title": "Space Microgravity Alters Neural Stem Cell Division: Implications for Brain Cancer Research on Earth and in Space",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9699585/",
+        "year": 2022,
+        "category": "Neural stem cells - division dynamics/cancer links"
+    },
+    {
+        "title": "Oligodendrocyte Progenitors Display Enhanced Proliferation and Autophagy after Space Flight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9953055/",
+        "year": 2022,
+        "category": "Neuroglia - OPC proliferation/autophagy (spaceflight)"
+    },
+    {
+        "title": "Metabolomics profile of the secretome of space-flown oligodendrocytes.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10528075/",
+        "year": 2023,
+        "category": "Neuroglia - oligodendrocyte secretome/metabolomics"
+    },
+    {
+        "title": "Metabolomic profiling of the secretome from human neural stem cells flown into space.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10813126/",
+        "year": 2024,
+        "category": "Neural stem cells - secretome/metabolomics (spaceflight)"
+    },
+    {
+        "title": "Strategies, research priorities, and challenges for the exploration of space beyond low-Earth orbit",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10390562/",
+        "year": 2023,
+        "category": "Policy/roadmap - beyond LEO exploration strategies"
+    },
+    {
+        "title": "Spaceflight Induces Specific Alterations in the Proteomes of Arabidopsis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4290804/",
+        "year": 2014,
+        "category": "Plant proteomics - Arabidopsis proteome (spaceflight)"
+    },
+    {
+        "title": "The effect of spaceflight on the gravity-sensing auxin gradient of roots: GFP reporter gene microscopy on orbit.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515520/",
+        "year": 2016,
+        "category": "Plant space biology - auxin/cytokinin in roots (ISS imaging)"
+    },
+    {
+        "title": "Skewing in Arabidopsis roots involves disparate environmental signaling pathways.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5286820/",
+        "year": 2017,
+        "category": "Root behavior - skewing/waving transcriptomics"
+    },
+    {
+        "title": "Data for characterization of SALK_084889, a T-DNA insertion line of Arabidopsis thaliana",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5470433/",
+        "year": 2017,
+        "category": "Plant genetics - T-DNA line dataset/characterization"
+    },
+    {
+        "title": "Genetic dissection of the Arabidopsis spaceflight transcriptome: Are some responses dispensable for the physiological adaptation of plants to spaceflight?",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5491145/",
+        "year": 2017,
+        "category": "Plant omics - spaceflight transcriptome analysis"
+    },
+    {
+        "title": "Phenotypic characterization of an Arabidopsis T- DNA insertion line SALK_063500",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996828/",
+        "year": 2018,
+        "category": "Plant genetics - T-DNA line phenotype"
+    },
+    {
+        "title": "Utilization of single‑image normalized difference vegetation index (SI‑NDVI) for early plant stress detection",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6201722/",
+        "year": 2018,
+        "category": "Imaging methods - NDVI stress detection"
+    },
+    {
+        "title": "Comparing RNA-Seq and microarray gene expression data in two zones of the Arabidopsis root apex relevant to spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240453/",
+        "year": 2018,
+        "category": "Methods - RNA-Seq vs microarray (root apex)"
+    },
+    {
+        "title": "Spaceflight-induced alternative splicing during seedling development in Arabidopsis thaliana.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6447593/",
+        "year": 2019,
+        "category": "Plant omics - alternative splicing (spaceflight)"
+    },
+    {
+        "title": "The Plant Health Monitoring System of the EDEN ISS Space Greenhouse in Antarctica during the 2018 experiment phase",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7264257/",
+        "year": 2020,
+        "category": "Space analogs - greenhouse health monitoring (Antarctica)"
+    },
+    {
+        "title": "Root skewing-associated genes impact the spaceflight response of Arabidopsis thaliana.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064724/",
+        "year": 2020,
+        "category": "Plant space biology - skewing genes/space response"
+    },
+    {
+        "title": "Articular cartilage and sternal fibrocartilage respond differently to extended microgravity.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6379395/",
+        "year": 2019,
+        "category": "Cartilage biology - articular vs sternal response (microgravity)"
+    },
+    {
+        "title": "Host-microbe interactions in microgravity: assessment and implications.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187166/",
+        "year": 2014,
+        "category": "Review - host–microbe interactions under microgravity"
+    },
+    {
+        "title": "Environmental cues and symbiont microbe-associated molecular patterns function in concert to drive the daily remodelling of the crypt-cell brush border of the Euprymna scolopes light organ",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5219934/",
+        "year": 2017,
+        "category": "Symbiosis - squid–Vibrio MAMP-driven remodeling"
+    },
+    {
+        "title": "Symbiotic organs shaped by distinct modes of genome evolution in cephalopods.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6386654/",
+        "year": 2019,
+        "category": "Cephalopod biology - symbiotic organ genome evolution"
+    },
+    {
+        "title": "Modeled microgravity alters lipopolysaccharide and outer membrane vesicle production of the beneficial symbiont Vibrio fischeri",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7940393/",
+        "year": 2021,
+        "category": "Microgravity microbiology - OMV/LPS in V. fischeri"
+    },
+    {
+        "title": "Emergence of novel cephalopod gene regulation and expression through large-scale genome reorganization",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9023564/",
+        "year": 2022,
+        "category": "Genomics - cephalopod gene regulation/evolution"
+    },
+    {
+        "title": "Modeled microgravity alters apoptotic gene expression and caspase activity in the squid-vibrio symbiosis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9389742/",
+        "year": 2022,
+        "category": "Symbiosis - apoptosis/caspases under microgravity"
+    },
+    {
+        "title": "In vitro generation of mechanically functional cartilage grafts based on adult human stem cells and 3D-woven poly(epsilon-caprolactone) scaffolds",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824534/",
+        "year": 2010,
+        "category": "Tissue engineering - functional cartilage grafts (3D woven)"
+    },
+    {
+        "title": "Chondrogenesis and mineralization during in vitro culture of human mesenchymal stem cells on three-dimensional woven scaffolds",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991213/",
+        "year": 2010,
+        "category": "Tissue engineering - MSC chondrogenesis/mineralization"
+    },
+    {
+        "title": "Microbiome metadata standards: Report of the National Microbiome Data Collaborative's workshop and follow-on activities.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8269219/",
+        "year": 2021,
+        "category": "Standards - microbiome metadata (NMDC)"
+    },
+    {
+        "title": "Spaceflight alters host-gut microbiota interactions",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11362537/",
+        "year": 2024,
+        "category": "Mouse multi-omics - gut microbiome/host transcriptome (ISS)"
+    },
+    {
+        "title": "Asparagine biosynthesis as a mechanism of increased host lethality induced by Serratia marcescens in simulated microgravity environments",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9111996/",
+        "year": 2022,
+        "category": "Space microbiology - pathogen virulence mechanism (LSMMG)"
+    },
+    {
+        "title": "Comparative genomic analysis of Cohnella hashimotonis sp. nov. isolated from the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10308117/",
+        "year": 2023,
+        "category": "ISS microbiome - novel species comparative genomics"
+    },
+    {
+        "title": "Characterization of metagenome-assembled genomes from the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10233975/",
+        "year": 2023,
+        "category": "ISS metagenomics - MAGs characterization"
+    },
+    {
+        "title": "Biocontrol in built environments to reduce pathogen exposure and infection risk.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10848226/",
+        "year": 2024,
+        "category": "Built environment - microbiome biocontrol strategies"
+    },
+    {
+        "title": "Extracellular nucleotides elicit cytosolic free calcium oscillations in Arabidopsis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329368/",
+        "year": 2012,
+        "category": "Plant signaling - extracellular ATP/ADP → Ca2+ oscillations"
+    },
+    {
+        "title": "Calcium, mechanical signaling, and tip growth",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12008199/",
+        "year": 2024,
+        "category": "Plant biomechanics - Ca2+ and growth at tips (review)"
+    },
+    {
+        "title": "Gravitropism and mechanical signaling in plants.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12008199/",
+        "year": 2024,
+        "category": "Plant mechanosensing - gravitropism overview (review)"
+    },
+    {
+        "title": "Salt stress-induced Ca2+ waves are associated with rapid, long-distance root-to-shoot signaling in plants.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035928/",
+        "year": 2014,
+        "category": "Plant systemic signaling - Ca2+ waves under salt stress"
+    },
+    {
+        "title": "Gravitropic signaling in plants",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12008199/",
+        "year": 2024,
+        "category": "Plant gravitropism - signaling pathways (review)"
+    },
+    {
+        "title": "Wortmannin-induced vacuole fusion enhances amyloplast dynamics in Arabidopsis zigzag1 hypocotyls.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181587/",
+        "year": 2016,
+        "category": "Plant gravitropism - vacuole fusion/amyloplast dynamics"
+    },
+    {
+        "title": "A ROS-assisted calcium wave dependent on AtRBOHD and TPC1 propagates the systemic response to salt stress in Arabidopsis roots",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936552/",
+        "year": 2016,
+        "category": "Plant systemic signaling - ROS–Ca2+ waves (salt stress)"
+    },
+    {
+        "title": "ROS, calcium and electric signals: Key mediators of rapid systemic signaling in plants",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610290/",
+        "year": 2020,
+        "category": "Review - rapid long-distance signaling (Ca2+/ROS/electric)"
+    },
+    {
+        "title": "Real-time In Vivo Recording of Arabidopsis Calcium Signals During Insect Feeding Using a Fluorescent Biosensor",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5614317/",
+        "year": 2017,
+        "category": "Imaging methods - in vivo Ca2+ biosensing (herbivory)"
+    },
+    {
+        "title": "Orchestrating rapid long-distance signaling in plants with Ca2+ , ROS, and electrical signals",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677518/",
+        "year": 2017,
+        "category": "Perspective - plant long-distance signaling orchestration"
+    },
+    {
+        "title": "Glutamate triggers long-distance, calcium-based plant defense signaling.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11850895/",
+        "year": 2024,
+        "category": "Plant defense - glutamate-evoked Ca2+ waves"
+    },
+    {
+        "title": "Test of Arabidopsis Space Transcriptome: A discovery environment to explore multiple plant biology spaceflight experiments.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7076552/",
+        "year": 2020,
+        "category": "Data platform - Arabidopsis spaceflight transcriptomes"
+    },
+    {
+        "title": "Tonoplast-localized Ca2+ pumps regulate Ca2+ signals during pattern-triggered immunity in Arabidopsis thaliana.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7414185/",
+        "year": 2020,
+        "category": "Plant immunity - vacuolar Ca2+ pumps/PTI signaling"
+    },
+    {
+        "title": "The fast and the furious: Rapid long-range signaling in plants.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8133610/",
+        "year": 2021,
+        "category": "Review - rapid long-range plant signaling"
+    },
+    {
+        "title": "Rad-Bio-App: A discovery environment for biologists to explore spaceflight-related radiation exposures",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8113475/",
+        "year": 2021,
+        "category": "Tools - spaceflight radiation exposure explorer"
+    },
+    {
+        "title": "The vacuolar H+/Ca transporter CAX1 participates in submergence and anoxia stress responses.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9706465/",
+        "year": 2022,
+        "category": "Plant stress - vacuolar Ca2+/H+ exchange in anoxia/submergence"
+    },
+    {
+        "title": "Meta-analysis of the space flight and microgravity response of the Arabidopsis plant transcriptome",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10027818/",
+        "year": 2023,
+        "category": "Plant omics - Arabidopsis spaceflight transcriptome (meta-analysis)"
+    },
+    {
+        "title": "Low-dose, ionizing radiation and age-related changes in skeletal microarchitecture",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337602/",
+        "year": 2012,
+        "category": "Radiation biology - skeletal microarchitecture (aging/low-dose)"
+    },
+    {
+        "title": "Ionizing Radiation Stimulates Expression of Pro-Osteoclastogenic Genes in Marrow and Skeletal Tissue",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4490751/",
+        "year": 2014,
+        "category": "Radiation biology - pro-osteoclastogenic gene expression"
+    },
+    {
+        "title": "Preservation of Multiple Mammalian Tissues to Maximize Science Return from Ground Based and Spaceflight Experiments",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132293/",
+        "year": 2016,
+        "category": "Methods - tissue preservation for space/ground studies"
+    },
+    {
+        "title": "Hindlimb Unloading: Rodent Analog for Microgravity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11747068/",
+        "year": 2024,
+        "category": "Spaceflight analog - rodent hindlimb unloading (methods/review)"
+    },
+    {
+        "title": "Redox Signaling and Its Impact on Skeletal and Vascular Responses to Spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666834/",
+        "year": 2017,
+        "category": "Redox signaling - skeletal/vascular responses in space"
+    },
+    {
+        "title": "Influence of social isolation during prolonged simulated weightlessness by hindlimb unloading",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6753329/",
+        "year": 2019,
+        "category": "Behavior/immune - social isolation under HLU"
+    },
+    {
+        "title": "Validation of a new Rodent experimental System to investigate consequences of Long Duration Space Habitation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012842/",
+        "year": 2020,
+        "category": "Space hardware - rodent research system validation"
+    },
+    {
+        "title": "Skeletal tissue regulation by catalase over-expression in mitochondria",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405755/",
+        "year": 2015,
+        "category": "Muscle/bone biology - mitochondrial catalase/PGC-1α"
+    },
+    {
+        "title": "Overexpression of catalase in mitochondria mitigates changes in hippocampal cytokine expression following simulated microgravity and isolation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8260663/",
+        "year": 2021,
+        "category": "Neuroscience - neuroinflammation (microgravity/isolation)"
+    },
+    {
+        "title": "An extensive allelic series of Drosophila kae1 mutants reveals diverse and tissue-specific requirements for t6A biogenesis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4647464/",
+        "year": 2015,
+        "category": "RNA modification - t6A biogenesis (Drosophila)"
+    },
+    {
+        "title": "Novel Organelles with Elements of Bacterial and Eukaryotic Secretion Systems Weaponize Parasites of Drosophila",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659752/",
+        "year": 2017,
+        "category": "Host–parasite interaction - extracellular vesicles (wasp–fly)"
+    },
+    {
+        "title": "A combined computational strategy of sequence and structural analysis predicts the existence of a functional eicosanoid pathway in Drosophila melanogaster.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6372189/",
+        "year": 2019,
+        "category": "Computational biology - Drosophila eicosanoid pathway"
+    },
+    {
+        "title": "Immune suppressive extracellular vesicle proteins of Leptopilina heterotoma are encoded in the wasp genome.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6945029/",
+        "year": 2019,
+        "category": "Host–parasite interactions - wasp EV proteomics"
+    },
+    {
+        "title": "Spaceflight and simulated microgravity conditions increase virulence of Serratia marcescens in the Drosophila melanogaster infection model.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7000411/",
+        "year": 2020,
+        "category": "Space microbiology - pathogen virulence (Drosophila)"
+    },
+    {
+        "title": "A parasitoid wasp of Drosophila employs preemptive and reactive strategies to deplete its host's blood cells",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8191917/",
+        "year": 2021,
+        "category": "Insect immunity - parasitoid wasp strategies (Drosophila)"
+    },
+    {
+        "title": "In Silico Analysis of a Drosophila Parasitoid Venom Peptide Reveals Prevalence of the Cation–Polar–Cation Clip Motif in Knottin Proteins",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9865768/",
+        "year": 2023,
+        "category": "Structural bioinformatics - venom peptides/knottins"
+    },
+    {
+        "title": "Drosophila parasitoids go to space: Unexpected effects of spaceflight on hosts and their parasitoids.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10797188/",
+        "year": 2023,
+        "category": "Space biology - insect host–parasitoid dynamics"
+    },
+    {
+        "title": "Simultaneous exposure of cultured human lymphoblastic cells to simulated microgravity and radiation increases chromosome aberrations",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555395/",
+        "year": 2020,
+        "category": "Space radiobiology - microgravity × radiation synergy"
+    },
+    {
+        "title": "Genes required for survival in microgravity revealed by genome-wide yeast deletion collections cultured during spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309212/",
+        "year": 2015,
+        "category": "Yeast genetics - genome-wide deletion fitness (spaceflight)"
+    },
+    {
+        "title": "Physical Forces Modulate Oxidative Status and Stress Defense Meditated Metabolic Adaptation of Yeast Colonies: Spaceflight and Microgravity Simulations",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560652/",
+        "year": 2017,
+        "category": "Yeast physiology - redox/apoptosis under microgravity"
+    },
+    {
+        "title": "Effects of space flight on mouse liver versus kidney: Gene pathway analyses.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6321533/",
+        "year": 2018,
+        "category": "Transcriptomics - liver vs kidney (spaceflight)"
+    },
+    {
+        "title": "Yeast in Space",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12040010/",
+        "year": 2025,
+        "category": "Review - yeast as a spaceflight model"
+    },
+    {
+        "title": "Endocrine Effects of Space Flight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11833055/",
+        "year": 2025,
+        "category": "Review - endocrine physiology in space"
+    },
+    {
+        "title": "Role of shear stress on renal proximal tubular cells for nephrotoxicity assays",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9146534/",
+        "year": 2022,
+        "category": "Organ-on-chip - renal shear/nephrotoxicity"
+    },
+    {
+        "title": "Bone hemodynamic responses to changes in external pressure.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11492218/",
+        "year": 2024,
+        "category": "Bone circulation - hemodynamics/external pressure"
+    },
+    {
+        "title": "Back pain in space and post-flight spine injury: Mechanisms and countermeasure development",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6339989/",
+        "year": 2019,
+        "category": "Spine health - back pain mechanisms/countermeasures (space)"
+    },
+    {
+        "title": "Fifteen days of microgravity causes growth in calvaria of mice",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4110898/",
+        "year": 2014,
+        "category": "Cranial bone - calvarial growth under microgravity"
+    },
+    {
+        "title": "Altered disc compression in children with idiopathic low back pain: an upright magnetic resonance imaging backpack study",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3947616/",
+        "year": 2013,
+        "category": "Spine biomechanics - upright MRI/disc compression"
+    },
+    {
+        "title": "Spaceflight-induced bone loss alters failure mode and reduces bending strength in murine spinal segments.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5477841/",
+        "year": 2015,
+        "category": "Spine biomechanics - spaceflight bone loss/strength"
+    },
+    {
+        "title": "Spaceflight-associated vascular remodeling and gene expression in mouse calvaria.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9139491/",
+        "year": 2022,
+        "category": "Calvarial vasculature - remodeling/gene expression (spaceflight)"
+    },
+    {
+        "title": "Exposure of Mycobacterium marinum to low-shear modeled microgravity: Effect on growth, the transcriptome and survival under stress.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515531/",
+        "year": 2016,
+        "category": "Space microbiology - mycobacteria LSMMG transcriptomics"
+    },
+    {
+        "title": "Effects of mechanostimulation on gravitropism and signal persistence in flax roots.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3258067/",
+        "year": 2012,
+        "category": "Plant gravitropism - mechanostimulation/signal persistence"
+    },
+    {
+        "title": "Oxygen dependency of germinating Brassica seeds.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10025027/",
+        "year": 2022,
+        "category": "Seed biology - oxygen dependence in germination"
+    },
+    {
+        "title": "Desiccation mitigates heat stress in the resurrection fern, Pleopeltis polypodioides",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733933/",
+        "year": 2020,
+        "category": "Plant stress physiology - desiccation vs heat stress"
+    },
+    {
+        "title": "Transcription profile of auxin related genes during positively gravitropic hypocotyl curvature of Brassica rapa.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9105288/",
+        "year": 2019,
+        "category": "Plant gravitropism - auxin gene expression (hypocotyl)"
+    },
+    {
+        "title": "High-gradient magnetic fields and starch metabolism: Results from a space experiment.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9617909/",
+        "year": 2022,
+        "category": "Plant space experiment - magnetism and starch metabolism"
+    },
+    {
+        "title": "Lipid rafts and plant gravisensitivity.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695138/",
+        "year": 2022,
+        "category": "Plant membrane biology - lipid rafts/gravity sensing"
+    },
+    {
+        "title": "Expression and characterization of the bacterial mechanosensitive channel MscS in Xenopus laevis oocytes",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3503204/",
+        "year": 2012,
+        "category": "Mechanotransduction - MscS channel heterologous expression"
+    },
+    {
+        "title": "United in Diversity: Mechanosensitive Ion Channels in Plants",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896955/",
+        "year": 2018,
+        "category": "Plant mechanobiology - mechanosensitive channels (review)"
+    },
+    {
+        "title": "Expressing and Characterizing Mechanosensitive Channels in Xenopus Oocytes",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4469364/",
+        "year": 2015,
+        "category": "Electrophysiology methods - mechanosensitive channels in oocytes"
+    },
+    {
+        "title": "The ongoing search for the molecular basis of plant osmosensing",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4411250/",
+        "year": 2015,
+        "category": "Plant signaling - osmosensing mechanisms (review)"
+    },
+    {
+        "title": "Plastid osmotic stress influences cell differentiation at the plant shoot apex.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5047659/",
+        "year": 2016,
+        "category": "Plant development - plastid osmotic stress/cell fate"
+    },
+    {
+        "title": "Spaceflight-induced synaptic modifications within hair cells of the mammalian utricle.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5454470/",
+        "year": 2017,
+        "category": "Vestibular neuroscience - utricle hair-cell synapses (spaceflight)"
+    },
+    {
+        "title": "Effects of angular frequency during clinorotation on mesenchymal stem cell morphology and migration",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515506/",
+        "year": 2016,
+        "category": "Stem cells - clinorotation frequency/morphology & migration"
+    },
+    {
+        "title": "The role of FGF-2 and BMP-2 in regulation of gene induction, cell proliferation and mineralization.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3044105/",
+        "year": 2011,
+        "category": "Growth factors - FGF-2/BMP-2 in osteogenic regulation"
+    },
+    {
+        "title": "Nutritional supplements, COX-2 and IGF-1 expression in men on active surveillance for prostate cancer.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3002170/",
+        "year": 2010,
+        "category": "Clinical study - supplements/COX-2/IGF-1 (prostate AS)"
+    },
+    {
+        "title": "To Infinity and Beyond! Human spaceflight and life science.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188462/",
+        "year": 2018,
+        "category": "Review - human spaceflight life sciences overview"
+    },
+    {
+        "title": "Hyperoxia inhibits T cell activation in mice",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11470607/",
+        "year": 2024,
+        "category": "Immunology - hyperoxia effects on T cell activation"
+    },
+    {
+        "title": "Effects of gravitational mechanical unloading in endothelial cells: association between caveolins, inflammation and adhesion molecules",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603133/",
+        "year": 2013,
+        "category": "Endothelium - unloading, caveolins/adhesion/inflammation"
+    },
+    {
+        "title": "n-3 Polyunsaturated fatty acids supplementation in peripheral artery disease: the OMEGA-PAD trial",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6462350/",
+        "year": 2019,
+        "category": "Clinical trial - omega-3 in peripheral artery disease"
+    },
+    {
+        "title": "Molecular mechanisms underlying the enhanced functions of three-dimensional hepatocyte aggregates",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4012541/",
+        "year": 2014,
+        "category": "Liver tissue engineering - 3D hepatocyte aggregates"
+    },
+    {
+        "title": "Spaceflight alters expression of microRNA during T-cell activation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4653058/",
+        "year": 2015,
+        "category": "Immunology - T-cell microRNA expression (spaceflight)"
+    },
+    {
+        "title": "Spaceflight impairs antigen-specific tolerance induction in vivo and increases inflammatory cytokines.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6137544/",
+        "year": 2015,
+        "category": "Immunology - impaired tolerance/inflammation (spaceflight)"
+    },
+    {
+        "title": "From cellular mechanotransduction to biologically inspired engineering: 2009 Pritzker Award Lecture, BMES Annual Meeting October 10, 2009.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2913424/",
+        "year": 2010,
+        "category": "Mechanobiology - translational principles/engineering lecture"
+    },
+    {
+        "title": "Crewmember microbiome may influence microbial composition of ISS habitable surfaces",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190111/",
+        "year": 2020,
+        "category": "ISS microbiome - crew–surface metagenomics"
+    },
+    {
+        "title": "Sierra Nevada sweep: Metagenomic measurements of bioaerosols vertically distributed across the troposphere.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7382458/",
+        "year": 2020,
+        "category": "Aero-microbiology - tropospheric bioaerosols/metagenomics"
+    },
+    {
+        "title": "Draft Genome Sequences of Fungi Isolated from the International Space Station during the Microbial Tracking-2 Experiment",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8444978/",
+        "year": 2021,
+        "category": "ISS microbiome - fungal draft genomes (MT-2)"
+    },
+    {
+        "title": "Microbial tracking-2, a metagenomics analysis of bacteria and fungi onboard the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9241228/",
+        "year": 2022,
+        "category": "ISS microbiome - MT-2 metagenomics/AMR"
+    },
+    {
+        "title": "Detection of Target Genes for Drug Repurposing to Treat Skeletal Muscle Atrophy in Mice Flown in Spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8953707/",
+        "year": 2022,
+        "category": "Space omics + ML - drug repurposing for muscle atrophy"
+    },
+    {
+        "title": "Release of CD36-associated cell-free mitochondrial DNA and RNA as a hallmark of space environment response",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166646/",
+        "year": 2024,
+        "category": "Astronaut liquid biopsy - cf-mtDNA/RNA and CD36 EVs"
+    },
+    {
+        "title": "Increasing the number of unloading/reambulation cycles does not adversely impac body composition and lumbar bone mineral density but reduces tissue sensitivity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3747666/",
+        "year": 2013,
+        "category": "HLU cycles - body composition/BMD/tissue sensitivity"
+    },
+    {
+        "title": "Bone shaft bending strength index is unaffected by exercise and unloading in mice",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337661/",
+        "year": 2015,
+        "category": "Bone biomechanics - bending strength index"
+    },
+    {
+        "title": "Focal enhancement of the skeleton to exercise correlates to mesenchymal stem cell responsivity rather than peak external forces.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631774/",
+        "year": 2015,
+        "category": "Bone adaptation - MSC responsiveness vs external load"
+    },
+    {
+        "title": "Cytoskeletal configuration modulates mechanically induced changes in mesenchymal stem cell osteogenesis, morphology, and stiffness.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052530/",
+        "year": 2016,
+        "category": "MSC mechanobiology - cytoskeleton/osteogenesis"
+    },
+    {
+        "title": "Genetic and tissue level muscle-bone interactions during unloading and reambulation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5114340/",
+        "year": 2016,
+        "category": "Muscle-bone crosstalk - unloading/reambulation"
+    },
+    {
+        "title": "Osteocyte apoptosis caused by hindlimb unloading is required to trigger osteocyte RANKL production and subsequent resorption of cortical and trabecular bone in mice femurs.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5488280/",
+        "year": 2017,
+        "category": "Bone remodeling - osteocyte apoptosis → RANKL/resorption"
+    },
+    {
+        "title": "Differential Single Cell Responses of Embryonic Stem Cells Versus Embryoid Bodies to Gravity Mechanostimulation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9293686/",
+        "year": 2022,
+        "category": "Stem cells - single-cell vs EBs under mechanostimulation"
+    },
+    {
+        "title": "Macrophages inhibit Aspergillus fumigatus germination and neutrophil-mediated fungal killing.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091969/",
+        "year": 2018,
+        "category": "Immunology - macrophage control of A. fumigatus"
+    },
+    {
+        "title": "Contributions of spore secondary metabolites to UV-C protection and virulence vary in different Aspergillus fumigatus strains",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029147/",
+        "year": 2020,
+        "category": "ISS fungi - UV-C protection/virulence variability (A. fumigatus)"
+    },
+    {
+        "title": "Regulation of hemocytes in Drosophila requires dappled cytochrome b5.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092937/",
+        "year": 2011,
+        "category": "Insect immunity - hemocyte regulation/cytochrome b5"
+    },
+    {
+        "title": "A novel phototropic response to red light is revealed in microgravity.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748516/",
+        "year": 2016,
+        "category": "Plant phototropism - red-light response in microgravity"
+    },
+    {
+        "title": "Plant cell proliferation and growth are altered by microgravity conditions in spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287483/",
+        "year": 2022,
+        "category": "Plant development - proliferation/growth under spaceflight"
+    },
+    {
+        "title": "Phototropism of Arabidopsis thaliana in microgravity and fractional gravity on the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748516/",
+        "year": 2016,
+        "category": "Plant phototropism - fractional gravity/ISS experiment"
+    },
+    {
+        "title": "Light and gravity signals synergize in modulating plant development",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4211383/",
+        "year": 2014,
+        "category": "Plant signaling - light–gravity crosstalk"
+    },
+    {
+        "title": "A novel blue-light phototropic response is revealed in roots of Arabidopsis thaliana in microgravity.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748516/",
+        "year": 2016,
+        "category": "Plant phototropism - blue-light root response in μg"
+    },
+    {
+        "title": "Comparative transcriptomics indicate changes in cell wall organization and stress response in seedlings during spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5821596/",
+        "year": 2017,
+        "category": "Plant omics - seedling transcriptome (cell wall/stress)"
+    },
+    {
+        "title": "RNAseq analysis of the response of Arabidopsis thaliana to fractional gravity under blue-light stimulation during spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6889863/",
+        "year": 2019,
+        "category": "Plant omics - RNA-Seq under fractional gravity/blue light"
+    },
+    {
+        "title": "Comparison of Microgravity Analogs to Spaceflight in Studies of Plant Growth and Development",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6908503/",
+        "year": 2019,
+        "category": "Methods - plant microgravity analogs vs spaceflight"
+    },
+    {
+        "title": "The importance of Earth reference controls in spaceflight-omics research: Characterization of nucleolin mutants from the Seedling Growth experiments",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607443/",
+        "year": 2020,
+        "category": "Plant omics - Earth controls for spaceflight transcriptomics"
+    },
+    {
+        "title": "Conducting plant experiments in space and on the Moon",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10764921/",
+        "year": 2024,
+        "category": "Plant space biology - methods and altered gravity (Wolffia/BLSS)"
+    },
+    {
+        "title": "Red light enhances plant adaptation to spaceflight and Mars g-levels.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9605285/",
+        "year": 2022,
+        "category": "Plant photobiology - red light adaptation under μg/partial g"
+    },
+    {
+        "title": "EUK-134 ameliorates nNOSµ translocation and skeletal muscle fiber atrophy during short-term mechanical unloading.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962621/",
+        "year": 2014,
+        "category": "Muscle unloading - antioxidant therapy (EUK‑134)"
+    },
+    {
+        "title": "MnSOD Overexpression Reduces Fibrosis and Pro-Apoptotic Signaling in the Aging Mouse Heart",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462657/",
+        "year": 2014,
+        "category": "Cardiac aging - mitochondrial antioxidant (MnSOD) effects"
+    },
+    {
+        "title": "Lifelong wheel running exercise and mild caloric restriction attenuate nuclear EndoG in the aging plantaris muscle.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026643/",
+        "year": 2016,
+        "category": "Muscle aging - exercise/CR and mitochondrial nucleases"
+    },
+    {
+        "title": "Age-related alterations in the sarcolemmal environment are attenuated by lifelong caloric restriction and voluntary exercise.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026642/",
+        "year": 2016,
+        "category": "Muscle aging - sarcolemma, exercise/CR mitigation"
+    },
+    {
+        "title": "The impact of SRT2104 on skeletal muscle mitochondrial function, redox biology, and loss of muscle mass in hindlimb unloaded rats.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10342025/",
+        "year": 2023,
+        "category": "Muscle unloading - SIRT1 activator (SRT2104) effects"
+    },
+    {
+        "title": "Bioreactor development for skeletal muscle hypertrophy and atrophy by manipulating uniaxial cyclic strain: Proof of concept.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11167039/",
+        "year": 2024,
+        "category": "Bioengineering - muscle bioreactor with cyclic strain"
+    },
+    {
+        "title": "Genomic and phenotypic characterization of Burkholderia isolates from the potable water system of the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020673/",
+        "year": 2022,
+        "category": "ISS water system - Burkholderia genomics/phenotypes"
+    },
+    {
+        "title": "CAMDLES: CFD-DEM Simulation of Microbial Communities in Spaceflight and Artificial Microgravity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9144607/",
+        "year": 2022,
+        "category": "Modeling - CFD/DEM microgravity simulations (microbial communities)"
+    },
+    {
+        "title": "Hardware validation of the Advanced Plant Habitat on ISS: Canopy photosynthesis in reduced gravity.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314936/",
+        "year": 2020,
+        "category": "ISS hardware - Advanced Plant Habitat validation/plant responses"
+    },
+    {
+        "title": "Trimeric structure of (+)-pinoresinol-forming dirigent protein at 1.95 A resolution with three isolated active sites.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4340379/",
+        "year": 2015,
+        "category": "Plant biochemistry - dirigent protein structure (lignan biosynthesis)"
+    },
+    {
+        "title": "Reduced Arogenate Dehydratase Expression: Ramifications for Photosynthesis and Metabolism",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933128/",
+        "year": 2018,
+        "category": "Plant metabolism - arogenate dehydratase/photosynthesis"
+    },
+    {
+        "title": "New insights into lignification via network and multi-omics analyses of arogenate dehydratase knock-out mutants in Arabidopsis thaliana",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8185232/",
+        "year": 2021,
+        "category": "Plant omics - lignification networks/ADH knockouts"
+    },
+    {
+        "title": "Functional consequences of radiation-induced oxidative stress in cultured neural stem cells and the brain exposed to charged particle irradiation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3936501/",
+        "year": 2013,
+        "category": "Space radiobiology - neural stem cells/charged particles"
+    },
+    {
+        "title": "Exploration of space to achieve scientific breakthroughs",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11998595/",
+        "year": 2025,
+        "category": "Policy/overview - scientific breakthroughs via space exploration"
+    },
+    {
+        "title": "Network Analysis of Gene Transcriptions of Arabidopsis thaliana in Spaceflight Microgravity.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7996555/",
+        "year": 2021,
+        "category": "Plant transcriptomics - network analysis under microgravity"
+    },
+    {
+        "title": "Detection of Genes in Arabidopsis thaliana L. Responding to DNA Damage from Radiation and Other Stressors in Spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234954/",
+        "year": 2021,
+        "category": "Plant stress genomics - DNA damage response (spaceflight)"
+    },
+    {
+        "title": "The Effect of spaceflight on mouse olfactory bulb volume, neurogenesis, and cell death indicates the protective effect of novel environment.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152162/",
+        "year": 2014,
+        "category": "Neuroscience - olfactory bulb size/neurogenesis (spaceflight)"
+    },
+    {
+        "title": "Effects of low-dose rate γ-irradiation combined with simulated microgravity on markers of oxidative stress, DNA methylation potential, and remodeling in the mouse heart",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5498037/",
+        "year": 2017,
+        "category": "Space radiobiology - heart oxidative stress/methylation (HU + γ)"
+    },
+    {
+        "title": "Characterization of mouse ocular response to a 35-day spaceflight mission: Evidence of blood-retinal barrier disruption and ocular adaptations.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6547757/",
+        "year": 2019,
+        "category": "Ocular space biology - BRB disruption/retinal proteomics (ISS)"
+    },
+    {
+        "title": "Mice Exposed to Combined Chronic Low-Dose Irradiation and Modeled Microgravity Develop Long-Term Neurological Sequelae.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6747492/",
+        "year": 2019,
+        "category": "Neurobiology - chronic low-dose radiation × microgravity"
+    },
+    {
+        "title": "Spaceflight influences gene expression, photoreceptor integrity, and oxidative stress-related damage in the murine retina.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6746706/",
+        "year": 2019,
+        "category": "Ocular omics - photoreceptors/oxidative damage (spaceflight)"
+    },
+    {
+        "title": "Evaluating ocular response in the retina and optic nerve head after single and fractionated high-energy protons",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8400407/",
+        "year": 2021,
+        "category": "Space radiobiology - proton exposure retina/ONH"
+    },
+    {
+        "title": "Characterization of gene expression profiles in the mouse brain after 35 days of spaceflight mission.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9365836/",
+        "year": 2022,
+        "category": "Neuro-omics - mouse brain transcriptome (spaceflight)"
+    },
+    {
+        "title": "A multi-omics longitudinal study of the murine retinal response to chronic low-dose irradiation and simulated microgravity.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9547011/",
+        "year": 2022,
+        "category": "Ocular multi-omics - retina under chronic radiation + μg"
+    },
+    {
+        "title": "Evidence of spaceflight-induced adverse effects on photoreceptors and retinal function in the mouse eye.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10138634/",
+        "year": 2023,
+        "category": "Ocular function - photoreceptor injury/ERG changes (spaceflight)"
+    },
+    {
+        "title": "Effects of spaceflight on the brain",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12031868/",
+        "year": 2025,
+        "category": "Review - brain structure/function changes (spaceflight)"
+    },
+    {
+        "title": "Routine omics collection is a golden opportunity for European human research in space and analog environments.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9583032/",
+        "year": 2022,
+        "category": "Policy/methods - standardized human omics in space/analogs"
+    },
+    {
+        "title": "Spatial omics technologies at multimodal and single cell/subcellular level.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9746133/",
+        "year": 2022,
+        "category": "Methods - spatial omics (multimodal/single-cell)"
+    },
+    {
+        "title": "Genomic characterization and radiation tolerance of Naganishia kalamii sp. nov. and Cystobasidium onofrii sp. nov. from Mars 2020 mission assembly facilities.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10422843/",
+        "year": 2023,
+        "category": "Cleanroom microbiology - radiation-tolerant yeasts (Mars 2020)"
+    },
+    {
+        "title": "Genome and clonal hematopoiesis stability contrasts with immune, cfDNA, mitochondrial, and telomere length changes during short duration spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11022651/",
+        "year": 2024,
+        "category": "Human spaceflight - genome stability vs telomere/cfDNA (short flight)"
+    },
+    {
+        "title": "Inspiration4 data access through the NASA Open Science Data Repository",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11094041/",
+        "year": 2024,
+        "category": "Data access - NASA OSDR portal for Inspiration4"
+    },
+    {
+        "title": "Molecular and physiologic changes in the SpaceX Inspiration4 civilian crew",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11357997/",
+        "year": 2024,
+        "category": "Human spaceflight - physiology/neurovestibular/multi-omics (I4)"
+    },
+    {
+        "title": "Telomeric RNA (TERRA) increases in response to spaceflight and high-altitude climbing",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11167063/",
+        "year": 2024,
+        "category": "Telomere biology - TERRA dynamics (spaceflight/high altitude)"
+    },
+    {
+        "title": "Spatial multi-omics of human skin reveals KRAS and inflammatory responses to spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166909/",
+        "year": 2024,
+        "category": "Spatial omics - human skin KRAS/inflammation (spaceflight)"
+    },
+    {
+        "title": "Longitudinal multi-omics analysis of host microbiome architecture and immune responses during short-term spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11222149/",
+        "year": 2024,
+        "category": "Human spaceflight - microbiome/immune longitudinal multi-omics"
+    },
+    {
+        "title": "Spatiotemporal expression and control of haemoglobin in space",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166948/",
+        "year": 2024,
+        "category": "Space physiology - hemoglobin expression/control"
+    },
+    {
+        "title": "Single-cell multi-ome and immune profiles of the Inspiration4 crew reveal conserved, cell-type, and sex-specific responses to spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166952/",
+        "year": 2024,
+        "category": "Single-cell multi-omics - immune responses (Inspiration4)"
+    },
+    {
+        "title": "Single-cell analysis identifies conserved features of immune dysfunction in simulated microgravity and spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166937/",
+        "year": 2024,
+        "category": "Human spaceflight - single-cell immune dysfunction (sim-μg + validation)"
+    },
+    {
+        "title": "The Space Omics and Medical Atlas (SOMA) and international astronaut biobank",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11357981/",
+        "year": 2024,
+        "category": "Data atlas - SOMA astronaut biobank/OSDR integration"
+    },
+    {
+        "title": "Secretome profiling reveals acute changes in oxidative stress, brain homeostasis, and coagulation following short-duration spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166969/",
+        "year": 2024,
+        "category": "Proteomics/EVs - secretome acute changes (short flight)"
+    },
+    {
+        "title": "Astronaut omics and the impact of space on the human body at scale",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166943/",
+        "year": 2024,
+        "category": "Review/overview - astronaut multi-omics at scale"
+    },
+    {
+        "title": "Transcriptomics analysis reveals molecular alterations underpinning spaceflight dermatology.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166967/",
+        "year": 2024,
+        "category": "Dermatology - skin transcriptomics (spaceflight)"
+    },
+    {
+        "title": "Cosmic kidney disease: an integrated pan-omic, physiological and morphological study into spaceflight-induced renal dysfunction",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11167060/",
+        "year": 2024,
+        "category": "Renal multi-omics - spaceflight-induced dysfunction"
+    },
+    {
+        "title": "Spaceflight induces changes in gene expression profiles linked to insulin and estrogen",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166981/",
+        "year": 2024,
+        "category": "Endocrine genomics - insulin/estrogen-linked responses"
+    },
+    {
+        "title": "Protective alleles and precision healthcare in crewed spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11263583/",
+        "year": 2024,
+        "category": "Genomics - protective alleles/precision space medicine"
+    },
+    {
+        "title": "To boldly go where no microRNAs have gone before: Spaceflight impact on risk for small-for-gestational-age infants",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11484870/",
+        "year": 2025,
+        "category": "Reproductive risk - microRNAs and SGA risk (spaceflight)"
+    },
+    {
+        "title": "Growth chambers on the International Space Station for large plants",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10780891/",
+        "year": 2024,
+        "category": "ISS hardware - large plant growth chambers"
+    },
+    {
+        "title": "Microbiological and nutritional analysis of lettuce crops grown on the International Space Station",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7067979/",
+        "year": 2020,
+        "category": "ISS plant production - Veggie food safety/nutrition"
+    },
+    {
+        "title": "Natural variation in the expression of ORGANIC CATION TRANSPORTER 1 affects root length responses to cadaverine in Arabidopsis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4321547/",
+        "year": 2015,
+        "category": "Plant physiology - OCT1/cadaverine root response"
+    },
+    {
+        "title": "Auxin: Shape matters.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6710492/",
+        "year": 2019,
+        "category": "Plant hormone - auxin morphogenesis review"
+    },
+    {
+        "title": "Gravity signaling in flowering plant roots",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12008199/",
+        "year": 2024,
+        "category": "Plant gravitropism - root signaling overview"
+    },
+    {
+        "title": "Cadaverine regulates biotin synthesis to modulate primary root growth in Arabidopsis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8518694/",
+        "year": 2021,
+        "category": "Plant metabolism - cadaverine→biotin/root growth"
+    },
+    {
+        "title": "Low-speed clinorotation of Brachypodium distachyon and Arabidopsis thaliana seedlings triggers root tip curvatures that are reminiscent of gravitropism.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9861679/",
+        "year": 2023,
+        "category": "Microgravity analog - clinorotation/root curvature"
+    },
+    {
+        "title": "New device for high-throughput viability screening of flow biofilms",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2897429/",
+        "year": 2010,
+        "category": "Methods - biofilm viability high-throughput screening"
+    },
+    {
+        "title": "Sigma S-dependent antioxidant defense protects stationary-phase Escherichia coli against the bactericidal antibiotic gentamicin",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187989/",
+        "year": 2014,
+        "category": "Bacterial stress - RpoS antioxidant defense/gentamicin"
+    },
+    {
+        "title": "Plasma membrane disruption (PMD) formation and repair in mechanosensitive tissues",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8217198/",
+        "year": 2021,
+        "category": "Mechanobiology - membrane repair in mechano-tissues"
+    },
+    {
+        "title": "Microgravity alters the expression of salivary proteins",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981245/",
+        "year": 2020,
+        "category": "Human spaceflight - salivary proteomics in microgravity"
+    },
+    {
+        "title": "Salivary Gland Protein Expression after Bion-M1 and Space Shuttle STS-135 Missions",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6981245/",
+        "year": 2020,
+        "category": "Salivary proteomics - post-flight gland expression (Bion-M1/STS-135)"
+    },
+    {
+        "title": "Response of the mouse sublingual gland to spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131065/",
+        "year": 2018,
+        "category": "Oral biology - sublingual gland ultrastructure/proteins (spaceflight)"
+    },
+    {
+        "title": "Effects of spaceflight on the mouse submandibular gland",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11233762/",
+        "year": 2024,
+        "category": "Oral biology - submandibular gland response (spaceflight)"
+    },
+    {
+        "title": "Reactivation of Latent Epstein-Barr Virus: A Comparison after Exposure to Gamma, Proton, Carbon, and Iron Radiation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6213004/",
+        "year": 2018,
+        "category": "Radiation virology - EBV reactivation (radiation types)"
+    },
+    {
+        "title": "The influence of spaceflight on the astronaut salivary microbiome and the search for a microbiome biomarker for viral reactivation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7171750/",
+        "year": 2020,
+        "category": "Astronaut microbiome - saliva/viral reactivation biomarkers"
+    },
+    {
+        "title": "The cyclic nucleotide-gated channel CNGC14 regulates root gravitropism in Arabidopsis thaliana.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10414970/",
+        "year": 2023,
+        "category": "Plant gravitropism - AUX1–AFB1–CNGC14 module"
+    },
+    {
+        "title": "Telomere length assessments of muscle stem cells in rodent and human skeletal muscle sections",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8450295/",
+        "year": 2021,
+        "category": "Methods - telomere length in muscle stem cells"
+    },
+    {
+        "title": "Persistent NF-κB activation in muscle stem cells induces proliferation-independent telomere shortening",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8183356/",
+        "year": 2021,
+        "category": "Muscle stem cells - NF-κB and telomere dynamics"
+    },
+    {
+        "title": "Piezo1 regulates the regenerative capacity of skeletal muscles via orchestration of stem cell morphological states.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8932657/",
+        "year": 2022,
+        "category": "Mechanosensing - Piezo1 in muscle stem cell regeneration"
+    },
+    {
+        "title": "Impacts of radiation exposure, hindlimb unloading, and recovery on murine skeletal muscle cell telomere length.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10504369/",
+        "year": 2023,
+        "category": "Space analogs - radiation × HLU effects on muscle telomeres"
+    },
+    {
+        "title": "Ethylene-induced flavonol accumulation in guard cells suppresses reactive oxygen species and modulates stomatal aperture",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982735/",
+        "year": 2014,
+        "category": "Plant physiology - flavonols/ROS/stomatal control"
+    },
+    {
+        "title": "Transcriptional and Hormonal Regulation of Gravitropism of Woody Stems in Populus.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682325/",
+        "year": 2015,
+        "category": "Plant gravitropism - transcription/hormone control (Populus)"
+    },
+    {
+        "title": "Endosidin2 targets conserved exocyst complex subunit EXO70 to inhibit exocytosis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10264680/",
+        "year": 2023,
+        "category": "Cell trafficking - exocyst/EXO70 inhibitor (Endosidin2)"
+    },
+    {
+        "title": "A conditional mutation in SCD1 reveals linkage between PIN protein trafficking, auxin transport, gravitropism, and lateral root initiation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7358545/",
+        "year": 2020,
+        "category": "Auxin biology - PIN trafficking/gravitropism/lateral roots"
+    },
+    {
+        "title": "A comprehensive SARS-CoV-2 and COVID-19 review, Part 1: Intracellular overdrive for SARS-CoV-2 infection.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9108708/",
+        "year": 2022,
+        "category": "Virology - intracellular mechanisms of SARS-CoV-2"
+    },
+    {
+        "title": "Changes in nuclear shape and gene expression in response to simulated microgravity are LINC complex-dependent.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555797/",
+        "year": 2020,
+        "category": "Mechanotransduction - LINC-dependent nuclear/gene responses (sim-μg)"
+    },
+    {
+        "title": "Growth of Carnobacterium spp. from permafrost under low pressure, temperature, and anoxic atmosphere has implications for Earth microbes on Mars",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545801/",
+        "year": 2012,
+        "category": "Astrobiology - low pressure/temperature anoxia survival"
+    },
+    {
+        "title": "Complete Genome Sequence of Carnobacterium gilichinskyi Strain WN1359T (DSM 27470T)",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3869332/",
+        "year": 2013,
+        "category": "Genomics - psychrotolerant Carnobacterium genome"
+    },
+    {
+        "title": "Exposure of Bacillus subtilis to low pressure (5 kilopascals) induces several global regulons, including those involved in the SigB-mediated general stress response",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4135744/",
+        "year": 2014,
+        "category": "Bacterial stress - low-pressure induced global regulons (SigB)"
+    },
+    {
+        "title": "Resistance of Bacillus subtilis Spore DNA to Lethal Ionizing Radiation Damage Relies Primarily on Spore Core Components and DNA Repair, with Minor Effects of Oxygen Radical Detoxification",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911009/",
+        "year": 2014,
+        "category": "Radiation biology - spore DNA protection/repair mechanisms"
+    },
+    {
+        "title": "Cultivation of Staphylococcus epidermidis in the human spaceflight environment leads to alterations in the frequency and spectrum of spontaneous rifampicin-resistance mutations in the rpoB gene",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4923109/",
+        "year": 2016,
+        "category": "Space microbiology - rpoB mutation spectrum under spaceflight"
+    },
+    {
+        "title": "Experimental Evolution of Bacillus subtilis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11673879/",
+        "year": 2024,
+        "category": "Experimental evolution - thermal plasticity and constraints (Bacillus)"
+    },
+    {
+        "title": "Cultivation in space flight produces minimal alterations in the susceptibility of Bacillus subtilis cells to 72 different antibiotics and growth-inhibiting compounds",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5648920/",
+        "year": 2017,
+        "category": "Antimicrobial susceptibility - phenotype microarrays (spaceflight)"
+    },
+    {
+        "title": "Alterations in the Spectrum of Spontaneous Rifampicin-Resistance Mutations in the Bacillus subtilis rpoB Gene after Cultivation in the Human Spaceflight Environment",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5817088/",
+        "year": 2018,
+        "category": "Space microbiology - rpoB mutation spectrum (B. subtilis)"
+    },
+    {
+        "title": "Mechanotransduction in Prokaryotes: A Possible Mechanism of Spaceflight Adaptation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825584/",
+        "year": 2021,
+        "category": "Review - prokaryotic mechanotransduction and space adaptation"
+    },
+    {
+        "title": "Environmental dependence of competitive fitness in rifampin-resistant rpoB mutants of Bacillus subtilis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8904044/",
+        "year": 2022,
+        "category": "Microbial evolution - fitness of rifampin-resistant rpoB mutants"
+    },
+    {
+        "title": "Analysis of interactions of Salmonella type three secretion mutants with 3-D intestinal epithelial cells.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3012082/",
+        "year": 2011,
+        "category": "3D models - Salmonella T3SS with RWV 3-D epithelium"
+    },
+    {
+        "title": "Organotypic 3D cell culture models: using the rotating wall vessel to study host-pathogen interactions.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11088941/",
+        "year": 2024,
+        "category": "Methods - RWV organotypic 3D culture for host–pathogen studies"
+    },
+    {
+        "title": "Induction of attachment-independent biofilm formation and repression of Hfq expression by low-fluid-shear culture of Staphylococcus aureus",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187170/",
+        "year": 2011,
+        "category": "LSMMG microbiology - attachment-independent biofilms (S. aureus)"
+    },
+    {
+        "title": "Characterization of the Salmonella enterica serovar Typhimurium ydcI gene which encodes a conserved DNA binding protein required for full acid stress resistance.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3133089/",
+        "year": 2011,
+        "category": "Bacterial genetics - ydcI in acid stress resistance (Salmonella)"
+    },
+    {
+        "title": "Evaluation of microorganisms cultured from injured and repressed tissue regeneration sites in endangered giant aquatic Ozark Hellbender salamanders.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3242767/",
+        "year": 2011,
+        "category": "Wildlife microbiology - amphibian injury/regeneration microbiota"
+    },
+    {
+        "title": "Transcriptional and proteomic responses of Pseudomonas aeruginosa PAO1 to spaceflight conditions involve Hfq regulation and reveal a role for oxygen.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067220/",
+        "year": 2011,
+        "category": "Space microbiology - P. aeruginosa transcriptome/proteome in flight"
+    },
+    {
+        "title": "New insights into the bacterial fitness-associated mechanisms revealed by the characterization of large plasmids of an avian pathogenic E. coli",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3251573/",
+        "year": 2012,
+        "category": "Plasmid genomics - APEC large plasmids/fitness"
+    },
+    {
+        "title": "Lack of norovirus replication and histo-blood group antigen expression in 3-dimensional intestinal epithelial cells",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3647661/",
+        "year": 2013,
+        "category": "3D intestinal models - norovirus replication constraints"
+    },
+    {
+        "title": "Conservation of the low-shear modeled microgravity response in Enterobacteriaceae and analysis of the trp genes in this response.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4085587/",
+        "year": 2014,
+        "category": "LSMMG microbiology - conserved responses in Enterobacteriaceae"
+    },
+    {
+        "title": "Mimicking the host and its microenvironment in vitro for studying mucosal infections by Pseudomonas aeruginosa.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4096993/",
+        "year": 2014,
+        "category": "Infection models - mucosal microenvironment for P. aeruginosa"
+    },
+    {
+        "title": "Effects of Sex and Gender on Adaptation to Space: Immune System",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467030/",
+        "year": 2020,
+        "category": "Space immunology - sex/gender differences in adaptation"
+    },
+    {
+        "title": "Recellularization of decellularized lung scaffolds is enhanced by dynamic suspension culture.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4427280/",
+        "year": 2015,
+        "category": "Tissue engineering - lung scaffold recellularization dynamics"
+    },
+    {
+        "title": "Three-dimensional organotypic co-culture model of intestinal epithelial cells and macrophages to study Salmonella enterica colonization patterns.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460263/",
+        "year": 2017,
+        "category": "3D co-culture - IEC–macrophage model for Salmonella"
+    },
+    {
+        "title": "Modeling Host-Pathogen Interactions in the Context of the Microenvironment: 3-D Cell Culture Comes of Age.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204695/",
+        "year": 2018,
+        "category": "Methods review - 3D culture for host–pathogen studies"
+    },
+    {
+        "title": "Evaluating the effect of spaceflight on the host–pathogen interaction between human intestinal epithelial cells and Salmonella Typhimurium",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7943786/",
+        "year": 2021,
+        "category": "Host–pathogen models - HT-29 × S. Typhimurium in spaceflight"
+    },
+    {
+        "title": "Rapid phenotypic response of LSMMG-'primed' Candida albicans.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11888247/",
+        "year": 2025,
+        "category": "Fungal space biology - LSMMG priming/phenotypic shifts"
+    },
+    {
+        "title": "Spaceflight enhances cell aggregation and random budding in Candida albicans.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3851762/",
+        "year": 2013,
+        "category": "Fungal space biology - aggregation/budding phenotypes"
+    },
+    {
+        "title": "Growth and antifungal resistance of the pathogenic yeast, Candida albicans, in the microgravity environment of the International Space Station: An aggregate of multiple flight experiences.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8067245/",
+        "year": 2021,
+        "category": "ISS microbiology - antifungal resistance across missions"
+    },
+    {
+        "title": "NASA GeneLab RNA-Seq Consensus Pipeline: Standardized Processing of Short-Read RNA-Seq Data",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8044432/",
+        "year": 2021,
+        "category": "Methods - standardized RNA-seq processing (GeneLab RCP)"
+    },
+    {
+        "title": "Challenges and considerations for single-cell and spatially resolved transcriptomics sample collection during spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9701605/",
+        "year": 2022,
+        "category": "Methods - single-cell/spatial transcriptomics in spaceflight"
+    },
+    {
+        "title": "Direct RNA sequencing of astronaut blood reveals spaceflight-associated m6A increases and hematopoietic transcriptional responses",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166648/",
+        "year": 2024,
+        "category": "Human spaceflight - direct RNA/m6A and hematopoiesis"
+    },
+    {
+        "title": "Collection of biospecimens from the inspiration4 mission establishes the standards for the space omics and medical atlas (SOMA)",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11166662/",
+        "year": 2024,
+        "category": "Standards - biospecimen collection for SOMA (Inspiration4)"
+    },
+    {
+        "title": "Microfluidics-enabled method to identify modes of Caenorhabditis elegans paralysis in four anthelmintics.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838407/",
+        "year": 2013,
+        "category": "Microfluidics - C. elegans pharmacology/behavior"
+    },
+    {
+        "title": "Multiparameter behavioral analyses provide insights to mechanisms of cyanide resistance in Caenorhabditis elegans.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748764/",
+        "year": 2013,
+        "category": "Toxicology - behavioral analytics for resistance mechanisms"
+    },
+    {
+        "title": "Growth performance and root transcriptome remodeling of Arabidopsis in response to Mars-like levels of magnesium sulfate.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2925951/",
+        "year": 2010,
+        "category": "Mars agronomy - MgSO4 stress/root transcriptome"
+    },
+    {
+        "title": "The 14-3-3 proteins of Arabidopsis regulate root growth and chloroplast development as components of the photosensory system.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350920/",
+        "year": 2012,
+        "category": "Plant signaling - 14-3-3 proteins/root & chloroplast"
+    },
+    {
+        "title": "14-3-3 phosphoprotein interaction networks - does isoform diversity present functional interaction specification?",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422896/",
+        "year": 2012,
+        "category": "Proteomics - 14-3-3 isoform interaction networks"
+    },
+    {
+        "title": "Plant growth strategies are remodeled by spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11869762/",
+        "year": 2025,
+        "category": "Plant space biology - growth strategy remodeling"
+    },
+    {
+        "title": "Spaceflight transcriptomes: unique responses to a novel environment.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10712242/",
+        "year": 2023,
+        "category": "Plant multi-omics - integrated transcriptome/proteome (ISS)"
+    },
+    {
+        "title": "Fundamental plant biology enabled by the space shuttle.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6143729/",
+        "year": 2018,
+        "category": "Review - plant biology milestones via Space Shuttle"
+    },
+    {
+        "title": "Organ-specific remodeling of the Arabidopsis transcriptome in response to spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10058394/",
+        "year": 2023,
+        "category": "Plant omics - organ-specific transcriptome (ISS)"
+    },
+    {
+        "title": "A method for preparing spaceflight RNAlater-fixed Arabidopsis thaliana (Brassicaceae) tissue for scanning electron microscopy.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103452/",
+        "year": 2014,
+        "category": "Methods - SEM prep of RNAlater-fixed plant tissue (flight)"
+    },
+    {
+        "title": "ARG1 Functions in the Physiological Adaptation of Undifferentiated Plant Cells to Spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8024390/",
+        "year": 2021,
+        "category": "Gravitropism - ARG1 role in plant cell adaptation"
+    },
+    {
+        "title": "A Member of the CONSTANS-Like Protein Family is a Putative Regulator of ROS Homeostasis and Spaceflight Physiological Adaptation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6348315/",
+        "year": 2019,
+        "category": "ROS regulation - CONSTANS-like protein in space adaptation"
+    },
+    {
+        "title": "HSFA2 Functions in the Physiological Adaptation of Undifferentiated Plant Cells to Spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6359015/",
+        "year": 2019,
+        "category": "Plant stress - HSFA2 in spaceflight adaptation"
+    },
+    {
+        "title": "Neutrophil to Lymphocyte ratio: A biomarker to monitor the immune status of astronauts.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7667275/",
+        "year": 2020,
+        "category": "Space immunology - NLR biomarker for immune monitoring"
+    },
+    {
+        "title": "Beyond low-Earth orbit: Characterizing immune and microRNA differentials following simulated deep spaceflight conditions in mice.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7756144/",
+        "year": 2020,
+        "category": "Deep-space analog - immune/microRNA in mice"
+    },
+    {
+        "title": "Immunological and hematological outcomes following protracted low dose/low dose rate ionizing radiation and simulated microgravity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8169688/",
+        "year": 2021,
+        "category": "Radiation × μg - immune/hematology outcomes"
+    },
+    {
+        "title": "Epigenomic regulators elongator complex subunit 2 and methyltransferase 1 differentially condition the spaceflight response in Arabidopsis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8475764/",
+        "year": 2021,
+        "category": "Plant epigenomics - ELP2/MET1 in spaceflight response"
+    },
+    {
+        "title": "Plants grown in Apollo lunar regolith present stress-associated transcriptomes that inform prospects for lunar exploration",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098553/",
+        "year": 2022,
+        "category": "Lunar agronomy - transcriptomic stress in lunar regolith"
+    },
+    {
+        "title": "Artificial gravity partially protects space-induced neurological deficits in Drosophila melanogaster.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10503492/",
+        "year": 2023,
+        "category": "Countermeasures - artificial gravity neuroprotection (fly)"
+    },
+    {
+        "title": "Utilizing the KSC fixation tube to conduct human-tended plant biology experiments on a suborbital spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9693084/",
+        "year": 2022,
+        "category": "Methods - KSC fixation tube in suborbital plant experiments"
+    },
+    {
+        "title": "Changes in Mouse Thymus and Spleen after Return from the STS-135 Mission in Space",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792163/",
+        "year": 2013,
+        "category": "Mouse immunology - thymus/spleen post-STS-135"
+    },
+    {
+        "title": "Post-Spaceflight (STS-135) Mouse Splenocytes Demonstrate Altered Activation Properties and Surface Molecule Expression.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4430214/",
+        "year": 2015,
+        "category": "Mouse immunology - splenocyte activation post-flight"
+    },
+    {
+        "title": "Changes in the distribution and function of leukocytes after whole-body iron ion irradiation.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045078/",
+        "year": 2016,
+        "category": "Space radiobiology - hematologic effects of iron ions"
+    },
+    {
+        "title": "Is spaceflight-induced immune dysfunction linked to systemic changes in metabolism?",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443495/",
+        "year": 2017,
+        "category": "Review - immunometabolism and spaceflight"
+    },
+    {
+        "title": "Spaceflight Activates Autophagy Programs and the Proteasome in Mouse Liver",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666744/",
+        "year": 2017,
+        "category": "Liver omics - autophagy/proteasome activation (spaceflight)"
+    },
+    {
+        "title": "Vive la radiorésistance!: Converging research in radiobiology and biogerontology to enhance human radioresistance for deep space exploration and colonization.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5865701/",
+        "year": 2018,
+        "category": "Radiobiology/biogerontology - enhancing radioresistance"
+    },
+    {
+        "title": "Proteomic analysis of mouse brain subjected to spaceflight.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337482/",
+        "year": 2018,
+        "category": "Neuroproteomics - mouse brain after spaceflight"
+    },
+    {
+        "title": "Transcriptomic effects on the mouse heart following 30 days on the International Space Station.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9953463/",
+        "year": 2023,
+        "category": "Cardiac transcriptomics - 30 days ISS exposure"
+    },
+    {
+        "title": "Spaceflight-induced gene expression profiles in the mouse brain are attenuated by treatment with the antioxidant BuOE",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10487739/",
+        "year": 2023,
+        "category": "Neuroprotection - antioxidant mitigation of gene changes"
+    },
+    {
+        "title": "Basal signaling regulates plant growth and development",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11942576/",
+        "year": 2025,
+        "category": "Plant signaling - basal pathways review"
+    },
+    {
+        "title": "Phosphoinositide-signaling is one component of a robust plant defense response",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4052902/",
+        "year": 2014,
+        "category": "Plant immunity - phosphoinositide signaling"
+    },
+    {
+        "title": "Uncovering transcriptional responses to fractional gravity in Arabidopsis roots",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8539686/",
+        "year": 2021,
+        "category": "Plant omics - fractional gravity transcriptome (ISS/EMCS)"
+    },
+    {
+        "title": "Conserved plant transcriptional responses to microgravity from two consecutive spaceflight experiments.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10800490/",
+        "year": 2024,
+        "category": "Plant transcriptomics - conserved μg responses across flights"
+    },
+    {
+        "title": "RNAseq analysis of rodent spaceflight experiments is confounded by sample collection techniques",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7756143/",
+        "year": 2020,
+        "category": "Methods - RNA-seq confounds from carcass vs immediate collection"
+    },
+    {
+        "title": "Functional changes in the snail statocyst system elicited by microgravity",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3066201/",
+        "year": 2011,
+        "category": "Vestibular biology - snail statocyst function in μg"
+    },
+    {
+        "title": "Simulated microgravity impairs human NK [natural killer] cell cytotoxic activity against space radiation-relevant leukemic cells",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11324864/",
+        "year": 2024,
+        "category": "Immune function - NK cytotoxicity under sim-μg + radiation context"
+    },
+    {
+        "title": "Multi-analyte biochip (MAB) based on all-solid-state ion-selective electrodes (ASSISE) for physiological research",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665236/",
+        "year": 2013,
+        "category": "Biosensors - ion-selective electrode biochip for physiology"
+    },
+    {
+        "title": "Lab-on-a-chip approaches for space-biology research.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470837/",
+        "year": 2023,
+        "category": "Methods review - microfluidics/LoC for space biology"
+    },
+    {
+        "title": "Plant chemical genomics: gravity sensing and response.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10386755/",
+        "year": 2023,
+        "category": "Plant chemical genomics - gravitropism mechanisms"
+    },
+    {
+        "title": "The interaction of vortical flows with red cells in venous valve mimics.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896891/",
+        "year": 2022,
+        "category": "Hemodynamics - vortical flow interactions with RBCs"
+    },
+    {
+        "title": "Mammalian and Invertebrate Models as Complementary Tools for Gaining Mechanistic Insight on Muscle Responses to Spaceflight",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430797/",
+        "year": 2021,
+        "category": "Comparative models - muscle response mechanisms to spaceflight"
+    },
+    {
+        "title": "Investigation of simulated microgravity effects on Streptococcus mutans physiology and global gene expression.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460135/",
+        "year": 2017,
+        "category": "Oral microbiology - S. mutans physiology/gene expression (LSMMG)"
+    },
+    {
+        "title": "Altered quorum sensing and physiology of Staphylococcus aureus during spaceflight detected by multi-omics data analysis",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10774393/",
+        "year": 2024,
+        "category": "Space microbiology - S. aureus quorum sensing/virulence (multi-omics)"
+    },
+    {
+        "title": "Homotypic vacuole fusion requires VTI11 and is regulated by phosphoinositides",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6126739/",
+        "year": 2018,
+        "category": "Plant cell biology - vacuole fusion/VTI11/phosphoinositides"
+    },
+    {
+        "title": "REGULATOR OF BULB BIOGENESIS1 (RBB1) Is Involved in Vacuole Bulb Formation in Arabidopsis.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4411111/",
+        "year": 2014,
+        "category": "Plant cell biology - vacuole bulb biogenesis (RBB1)"
+    },
+    {
+        "title": "Phosphoinositides control the localization of HOPS subunit VPS41, which together with VPS33 mediates vacuole fusion in plants.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6126739/",
+        "year": 2018,
+        "category": "Plant membrane trafficking - HOPS/VPS41 localization control"
+    },
+    {
+        "title": "Microgravity enhances the phenotype of Arabidopsis zigzag-1 and reduces the Wortmannin-induced vacuole fusion in root cells.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9445043/",
+        "year": 2022,
+        "category": "Plant microgravity - zigzag-1 phenotype/vacuole fusion modulation"
+    },
+    {
+        "title": "Hypergravity disruption of homeorhetic adaptations to lactation in rat dams include changes in circadian clocks",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3509447/",
+        "year": 2012,
+        "category": "Physiology - hypergravity effects on lactation/circadian rhythms"
+    },
+    {
+        "title": "Intrauterine exposure to maternal stress alters Bdnf IV DNA methylation and telomere length in the brain of adult rat offspring.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600826/",
+        "year": 2017,
+        "category": "Neuroepigenetics - maternal stress, Bdnf methylation, telomeres"
+    },
+    {
+        "title": "Influence of gonadectomy on muscle health in micro- and partial-gravity environments in rats.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10831389/",
+        "year": 2024,
+        "category": "Muscle physiology - sex hormones and μg/partial g"
+    },
+    {
+        "title": "Sex differences in muscle health in simulated micro- and partial-gravity environments in rats.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10831389/",
+        "year": 2024,
+        "category": "Muscle physiology - sex differences under μg/partial g"
+    },
+    {
+        "title": "Brassinazole resistant 1 (BZR1)-dependent brassinosteroid signalling pathway leads to ectopic activation of quiescent cell division and suppresses columella stem cell differentiation",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4507784/",
+        "year": 2015,
+        "category": "Plant hormone signaling - brassinosteroids/BZR1 in root meristem"
+    },
+    {
+        "title": "Proteomic study of microsomal proteins reveals a key role for Arabidopsis Annexin 1 in mediating heat stress-induced increase in intracellular calcium levels.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4349987/",
+        "year": 2015,
+        "category": "Plant proteomics - ANN1 mediates heat-induced Ca2+ rise"
+    },
+    {
+        "title": "Apyrase inhibitors enhance the ability of diverse fungicides to inhibit the growth of different plant-pathogenic fungi",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6638264/",
+        "year": 2016,
+        "category": "Plant pathology - apyrase inhibitors boost fungicide efficacy"
+    },
+    {
+        "title": "ANN1 and ANN2 Function in Post-Phloem Sugar Transport in Root Tips to Affect Primary Root Growth",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130020/",
+        "year": 2018,
+        "category": "Plant development - annexins regulate sugar unloading to roots"
+    },
+    {
+        "title": "Mitochondria-targeted human catalase in the mouse longevity MCAT model mitigates head-tilt bedrest-induced neuro-inflammation in the hippocampus.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695374/",
+        "year": 2022,
+        "category": "Neuroscience analogs - MCAT catalase reduces HU neuroinflammation"
+    },
+    {
+        "title": "Structural and functional properties of bone are compromised in amyotrophic lateral sclerosis mice.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6141014/",
+        "year": 2018,
+        "category": "Bone biology - ALS mouse bone structural/functional deficits"
+    },
+    {
+        "title": "Longitudinal time course of muscle impairments during partial weight-bearing in rats",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6706399/",
+        "year": 2019,
+        "category": "Partial gravity analog - longitudinal muscle impairment"
+    },
+    {
+        "title": "The partial weight-bearing rat model using a pelvic harness does not impact stress or hindlimb blood flow.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12034070/",
+        "year": 2025,
+        "category": "Partial gravity methods - PWB harness stress/flow validation"
+    },
+    {
+        "title": "Dose-dependent skeletal deficits due to varied reductions in mechanical loading in rats.",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235020/",
+        "year": 2020,
+        "category": "Bone mechanobiology - graded unloading dose–response"
+    },
+    {
+        "title": "Approaching Gravity as a Continuum Using the Rat Partial Weight-Bearing Model",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7599661/",
+        "year": 2020,
+        "category": "Partial gravity framework - continuum via rat PWB"
+    },
+    {
+        "title": "Hindlimb suspension in Wistar rats: Sex-based differences in muscle response",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8493566/",
+        "year": 2021,
+        "category": "HLU analog - sex differences in muscle response"
+    }
+]
