@@ -4,7 +4,7 @@ Discover NASA space biology publications, explore themes, view real‑time space
 
 ## 1. Project Title
 
-Space Hunters – NASA Space App
+Space Hunters – NASA Space biology App
 
 ## 2. Overview
 
