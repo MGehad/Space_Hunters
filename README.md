@@ -1,4 +1,4 @@
-# Space Hunters – NASA Space Biology Knowledge Engine (Monorepo)
+# Space Hunters – NASA Space Biology Knowledge Engine
 
 Space Hunters is a two‑app project created for NASA Space Apps Challenge 2025. The repository contains a production‑ready Flutter mobile app and a companion website. The mobile app is the primary deliverable and includes full AI summaries, AI chat, charts, and favorites. The website is a lightweight showcase with mostly static data and a public demo.
 
