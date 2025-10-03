@@ -41,6 +41,7 @@ Space Hunters is a modern web application that aggregates NASA space biology pub
 ![Home](./Screenshots/screenshot1.png)
 ![Publications](./Screenshots/screenshot2.png)
 ![Dashboard](./Screenshots/screenshot3.png)
+![Dashboard-Charts](./Screenshots/screenshot0.png)
 ![APOD](./Screenshots/screenshot4.png)
 ![Details](./Screenshots/screenshot5.png)
 ![Favorites](./Screenshots/screenshot6.png)
