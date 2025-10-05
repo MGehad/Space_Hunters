@@ -4,9 +4,9 @@ Space Hunters is a two‑app project created for NASA Space Apps Challenge 2025.
 
 ## Quick links
 - Mobile live demo: https://appetize.io/app/b_irjfqddzwqp4o4vzl2skhad4va
-- Mobile APK Download (Completed – Ready to work ): https://drive.google.com/drive/folders/1JcKwLZikQUFakTZKuYTlZ0qq2wmFodLw?usp=sharing 
+- Mobile APK Download : https://drive.google.com/drive/folders/1JcKwLZikQUFakTZKuYTlZ0qq2wmFodLw?usp=sharing 
 - Mobile live demo (alt): https://appetize.io/app/b_vcshm5adskrcqpm35jqkb3zwsi
-- Website live demo (Not complete yet): https://space-hunters.netlify.app/
+- Website live demo : https://space-hunters.netlify.app/
 - Mobile source: Space_Hunters/Mobile_Application
 - Website source: Space_Hunters/WebSite_Application
 
